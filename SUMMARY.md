@@ -1,3 +1,8 @@
-# Table of content
+# Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [Features](chapter1.md)
+* [Blog](blog.md)
+* [Terms and Conditions](terms-and-conditions.md)
+* [API](api.md)
+
