@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+    * [Kebijakan Privasi](kebijakan-privasi.md)
 * [Features](chapter1.md)
     * [Booking Code](booking-code.md)
     * [Excel Upload](excel-upload.md)
