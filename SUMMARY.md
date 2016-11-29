@@ -12,6 +12,7 @@
         * [Web](web.md)
         * [Android](android.md)
     * [Validasi Kodepos](validasi-kodepos.md)
+    * [Print Label](print-label.md)
 * [Blog](blog.md)
     * [Lokasi Vendor](lokasi-vendor.md)
     * [iOS App Release](ios-app-release.md)
