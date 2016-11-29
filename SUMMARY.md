@@ -13,5 +13,6 @@
     * [iOS App Release](ios-app-release.md)
 * [Terms and Conditions](terms-and-conditions.md)
     * [TIKI](tiki.md)
+    * [JNT](jnt.md)
 * [API](api.md)
 
