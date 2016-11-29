@@ -1,36 +1,19 @@
 ## API Versi 2
 
-
-
 API Versi 2 menggunakan otorisasi universal, untuk memakai fungsi fungsi daripada API ini silahkan memakai field \(GET\) sebagai berikut:
 
-
-
 | **Nama Field** | **Keterangan** |
-
 | --- | --- |
-
 | `auth-user-email` | user email akun anda |
-
 | `auth-api-key` | Api key yang diberikan kepada anda, bisa didapatkan di halaman [API](https://paket.id/settings/apikeyuser) |
-
-
 
 ## Baca Kode Paket
 
-
-
 Untuk membaca info dari sebuah kode paket anda bisa memakai node
-
-
 
 ##### ENDPOINT `[GET] http://paket.id/apis/v2/booking/{kode}`
 
-
-
 Bila tidak bisa mendapatkan info dari kode paket, cek beberapa hal ini
-
-
 
 * Kunci Api anda valid
 
@@ -41,15 +24,11 @@ Bila tidak bisa mendapatkan info dari kode paket, cek beberapa hal ini
 * Kode paket masih dalam keadaan aktif dan belum di delete atau sudah expirasi
 
 
-
 Bila masih tidak bisa mendapatkan info untuk kode paket anda, silahkan kirim email ke cs@paket.id
-
-
 
 ##### CONTOH `[GET] http://paket.id/apis/v2/booking/ABCDE?auth-user-email=test@paket.id&auth-api-key=API_KEY_ANDA`
 
-
-
+```
 {
 
  "status": {
@@ -209,58 +188,32 @@ Bila masih tidak bisa mendapatkan info untuk kode paket anda, silahkan kirim ema
  \]
 
 }
-
-
+```
 
 ## Buat Kode Paket
 
-
-
 Untuk mebuat sebuah kode paket anda bisa memakai metode `POST`, dan memakai 2 tipe request bersamaan yaitu POST dan GET, url untuk membuat paket adalah
-
-
 
 ##### ENDPOINT `[POST] http://paket.id/apis/v2/booking/`
 
-
-
 Dan gunakan request dengan tipe POST dengan nama field berikut
 
-
-
 | **Nama Field** | **Tipe** | **Diperlukan** | **Deskripsi** |
-
 | --- | --- | --- | --- |
-
 | from\_name | String | Diperlukan | Nama Pengirim |
-
 | from\_email | String \(email address format\) | Opsional | Email Pengirim, jika kosong maka menggunakan email user yang terdaftar |
-
 | from\_address | String | Diperlukan | Alamat Pengirim |
-
 | from\_phone | String | Diperlukan | Telefon Pengirim |
-
 | from\_zip\_code | String | Opsional | Kode Pos Pengirim |
-
 | to\_email | String \(email address format\) | Opsional | Email Penerima |
-
 | to\_name | String | Diperlukan | Nama Penerima |
-
 | to\_address | String | Diperlukan | Alamat Penerima |
-
 | to\_phone | String | Diperlukan | Telefon Penerima |
-
 | to\_zip\_code | String | Opsional | Pos Kode Penerima |
-
 | note | String | Opsional | Catatan Pribadi \(Tidak dikirim ke penerima\) |
-
 | content | String | Opsional | Konten barang |
 
-
-
 ##### CONTOH `[POST] http://paket.id/apis/v2/booking?auth-user-email=test@paket.id&auth-api-key=API_KEY_ANDA`
-
-
 
 ```
 
@@ -290,37 +243,20 @@ JSON RESPONSE
 
 ```
 
-
-
 ## Tarif
-
-
 
 Untuk melihat daftar tarif yang dimiliki oleh Paket ID bisa memakai API `tarif`, API `tarif` memakai area yang terdapat pada API area
 
-
-
 ##### ENDPOINT `[POST/GET] http://paket.id/apis/v2/tarif/{kode-vendor}/{area-pengirim}/{area-penerima}/{berat}`
 
-
-
 | **Nama** | **Deskripsi** | **Default** |
-
 | --- | --- | --- |
-
 | kode-vendor | Dipakai untuk mengambil kode spesifik sebuah vendor | tiki |
-
 | area-pengirim | Area darimana barang dikirim, bisa didapat dari API "AREA" | Jakarta |
-
 | area-penerima | Area tujuan pengiriman barang, bisa didapat dari API "AREA" | Jakarta |
-
 | Berat | Berat barang dalam kilogram | 1 |
 
-
-
 ##### CONTOH `[GET/POST] http://paket.id/apis/v2/tariff/tiki/Jakarta/Surabaya/1?auth-user-email=test@paket.id&auth-api-key=API_KEY_ANDA`
-
-
 
 ```
 
@@ -424,33 +360,18 @@ JSON RESPONSE
 
 ```
 
-
-
 ## Area untuk Tarif
-
-
 
 Untuk melihat daftar area yang dimiliki oleh Paket ID bisa memakai API `area`, API `area` dipakai untuk keperluan tarif
 
-
-
 ##### ENDPOINT `[POST/GET] http://paket.id/apis/v2/area/{tipe}`
 
-
-
 | **Tipe** | **Deskripsi** |
-
 | --- | --- |
-
 | list | list dipakai untuk mengambil nama semua area terdaftar, list adalah tipe default |
-
 | full | full dipakai untuk mengambil detail semua area |
 
-
-
 ##### CONTOH `[GET/POST] http://paket.id/apis/v2/area?auth-user-email=test@paket.id&auth-api-key=API_KEY_ANDA`
-
-
 
 ```
 
@@ -492,11 +413,7 @@ JSON RESPONSE
 
 ```
 
-
-
 ##### CONTOH `[GET/POST] http://paket.id/apis/v2/area/full?auth-user-email=test@paket.id&auth-api-key=API_KEY_ANDA`
-
-
 
 ```
 
@@ -546,23 +463,13 @@ JSON RESPONSE
 
 ```
 
-
-
 ## Vendor
-
-
 
 API Vendor diapakai untuk melihat daftar para vendor yang telah memakai Paket ID
 
-
-
 ##### ENDPOINT `[POST/GET] http://paket.id/apis/v2/vendor`
 
-
-
 ##### CONTOH `[GET/POST] http://paket.id/apis/v2/vendor?auth-user-email=test@paket.id&auth-api-key=API_KEY_ANDA`
-
-
 
 ```
 
@@ -581,7 +488,4 @@ JSON RESPONSE
 }
 
 ```
-
-
-
 
