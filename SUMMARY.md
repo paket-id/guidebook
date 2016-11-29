@@ -12,5 +12,6 @@
     * [Lokasi Vendor](lokasi-vendor.md)
     * [iOS App Release](ios-app-release.md)
 * [Terms and Conditions](terms-and-conditions.md)
+    * [TIKI](tiki.md)
 * [API](api.md)
 
