@@ -9,6 +9,7 @@
         * [Android](android.md)
     * [Validasi Kodepos](validasi-kodepos.md)
 * [Blog](blog.md)
+    * [Lokasi Vendor](lokasi-vendor.md)
 * [Terms and Conditions](terms-and-conditions.md)
 * [API](api.md)
 
