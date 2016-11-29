@@ -24,8 +24,8 @@ Caranya pembuatan kode :
 
 Pembuatan kode pengiriman juga bisa melalui
 
-1. [API](http://docs.paket.id/API/Versi_2.html)
-2. [Excel](http://blog.paket.id/2016/04/08/fitur-excel-book/)
+1. [API](versi-2.md)
+2. [Excel](excel-upload.md)
 
 Simak gambar dibawah ini untuk memperjelas proses pembuatan kode
 
