@@ -1,7 +1,10 @@
 # Summary
 
 * [Introduction](README.md)
-    * [Kebijakan Privasi](kebijakan-privasi.md)
+* [Kebijakan Privasi](kebijakan-privasi.md)
+* [Getting Started](getting-started.md)
+    * [Format Alamat](form-alamat.md)
+    * [Penjelasan Input](penjelasan-input.md)
 * [Features](chapter1.md)
     * [Booking Code](booking-code.md)
     * [Excel Upload](excel-upload.md)
