@@ -6,7 +6,7 @@
     * [Excel Upload](excel-upload.md)
     * [Pickup](pickup.md)
         * [Web](web.md)
-        * Android
+        * [Android](android.md)
 * [Blog](blog.md)
 * [Terms and Conditions](terms-and-conditions.md)
 * [API](api.md)
