@@ -11,13 +11,13 @@ Sudah download aplikasi Paket ID untuk Android? Kamu bisa request pickup dengan 
 
 1. Lalu akan tampil pickup map untuk mengatur lokasi penjemputan. Geser map untuk mendapatkan lokasi yang tepat
 
-
 ![](/assets/pickup map.png)
 
 1. Klik ceklis jika sudah mendapatkan alamat yang sesuai
 2. Lengkapi alamat dengan keterangan tambahan, misalnya patokan jalan, nama gang, nama gedung, lantai, atau nomor rumah
 
 3. Pilih jenis kendaraan yang akan menjemput barang kiriman Anda
+
 4. Klik Pickup
 
 ![](/assets/pickup form (2).png)
