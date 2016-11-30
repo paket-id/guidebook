@@ -1,7 +1,10 @@
 # Summary
 
-* [Introduction](README.md)
+* [Introduksi](README.md)
 * [Kebijakan Privasi](kebijakan-privasi.md)
+* [Syarat dan Ketentuan](terms-and-conditions.md)
+    * [TIKI](tiki.md)
+    * [JNT](jnt.md)
 * [Getting Started](getting-started.md)
     * [Format Alamat](form-alamat.md)
     * [Penjelasan Input](penjelasan-input.md)
@@ -20,9 +23,6 @@
 * [Blog](blog.md)
     * [iOS App Release](ios-app-release.md)
     * [Lokasi Vendor](lokasi-vendor.md)
-* [Terms and Conditions](terms-and-conditions.md)
-    * [TIKI](tiki.md)
-    * [JNT](jnt.md)
 * [API](api.md)
     * [Versi 2](versi-2.md)
 
