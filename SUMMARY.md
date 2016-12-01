@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Kebijakan Privasi](kebijakan-privasi.md)
+* [Privacy Policy](kebijakan-privasi.md)
 * [Getting Started](getting-started.md)
     * [Format Alamat](form-alamat.md)
     * [Penjelasan Input](penjelasan-input.md)
@@ -12,11 +12,12 @@
         * [Web](web.md)
         * [Android](android.md)
     * [Print Label](print-label.md)
+    * [Real Time Tracking](real-time-tracking.md)
     * [Shipment Report](shipment-report.md)
     * [SMS Tracking](sms-tracking.md)
     * [Tracking Brand](tracking-brand.md)
     * [Upload Logo](upload-logo.md)
-    * [Validasi Kodepos](validasi-kodepos.md)
+    * Real Time Tracking
 * [Blog](blog.md)
     * [iOS App Release](ios-app-release.md)
     * [Lokasi Vendor](lokasi-vendor.md)
@@ -25,4 +26,9 @@
     * [JNT](jnt.md)
 * [API](api.md)
     * [Versi 2](versi-2.md)
+* [Settings](settings.md)
+    * [Change Password](change-password.md)
+    * [Customization](customization.md)
+    * [Generate API](generate-api.md)
+    * [Profile](profile.md)
 
