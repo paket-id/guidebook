@@ -26,7 +26,8 @@
 * [API](api.md)
     * [Versi 2](versi-2.md)
 * [Settings](settings.md)
-    * [Profile](profile.md)
     * [Change Password](change-password.md)
+    * [Customization](customization.md)
     * [Generate API](generate-api.md)
+    * [Profile](profile.md)
 
