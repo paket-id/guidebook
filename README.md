@@ -6,7 +6,7 @@ Secara konsep Paket.id menjembatani user ke logistik pilihan mereka dan cocok di
 
 Paket.id tersedia sebagai aplikasi web, android, iOS, dan juga sebagai API
 
-Kepada user, Paket.id memberi beberapa fitur seperti
+Kepada user, Paket.id mempermudah proses pengiriman dengan memberikan fitur - fitur seperti
 
 * Booking instan
 
@@ -26,14 +26,12 @@ Kepada user, Paket.id memberi beberapa fitur seperti
 * Auto-Print
 
 
-
-
-Kepada mitra logistik, Paket.id membantu mempercepat proses pengiriman di konter dan juga memperbesar cangkupan market dan membantu memberi servis lebih ke kustomer mereka
+Kepada mitra logistik, Paket.id membantu mempercepat proses pengiriman di konter dan juga memperbesar cangkupan market dengan memberi servis lebih ke kustomer mereka
 Kepada mitra, Paket.id menyediakan
 
-Portal 
+Web Portal
 
-Dipakai untuk memantau dan mengatur administrasi, setting dan pickup
+Dipakai untuk memantau dan mengatur administrasi, setting, pickup, driver manajemen
 
 Aplikasi Driver
 
