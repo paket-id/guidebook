@@ -1,3 +1,4 @@
-{ "plugins": ["theme-api"], "pluginsConfig": { "theme-api": { "split": true } } }
+{ "plugins": ["theme-api"], "title": "My Book",
+    "author": "Author","pluginsConfig": { "theme-api": { "split": true } } }
 
 
