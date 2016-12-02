@@ -7,6 +7,7 @@
     * [Penjelasan Input](penjelasan-input.md)
 * [Features](chapter1.md)
     * [Booking Code](booking-code.md)
+    * [History Booking](history-booking.md)
     * [Excel Upload](excel-upload.md)
     * [Pickup](pickup.md)
         * [Web](web.md)
@@ -17,7 +18,7 @@
     * [SMS Tracking](sms-tracking.md)
     * [Tracking Brand](tracking-brand.md)
     * [Upload Logo](upload-logo.md)
-    * Real Time Tracking
+    * History Booking
 * [Blog](blog.md)
     * [iOS App Release](ios-app-release.md)
     * [Lokasi Vendor](lokasi-vendor.md)
