@@ -1,5 +1,7 @@
 ## Frequently Asked Questions
 
+### Kode Booking
+
 > Kode booking Saya gagal dibuat, apa yang salah?
 
 Jika Anda gagal membuat kode booking, periksa kembali input pengirim dan penerima, apakah sudah sesuai format paket.id, yaitu Nama&lt;spasi&gt;NomorTelepon&lt;spasi&gt;Alamat. Pastikan alamat yang diinput terdapat nomor rumah atau kodepos dan nomor telepon berada diantara nama dan alamat. Nama yang dimasukkan bisa lebih dari satu kata dan nomor telepon bisa diinput dengan kode negara didepan.
@@ -32,6 +34,8 @@ Saat ini, kode booking paket.id dapat diproses di 78 cabang Tiki. Selengkapnya c
 
 Terkait keterlambatan pengiriman, Anda dapat menghubungi langsung customer service dari vendor logistik yang bersangkutan. Informasi tersebut dapat dilihat di halaman tracking, seperti nama vendor, email, dan nomor telepon customer service yang dapat dihubungi.
 
+### Pickup
+
 > Saya sudah melakukan request pickup, lalu apa yang harus saya lakukan?
 
 Jika ada kurir yang tersedia di lokasi sekitar dan dapat menjemput barang Anda, Anda akan menerima notifikasi bahwa kurir sedang dalam perjalanan ke lokasi pickup yang telah Anda tentukan. Jika Anda tidak menerima notifikasi apapun atau request Anda dibatalkan oleh sistem, maka Anda dapat membuat request pickup kembali beberapa saat lagi.
@@ -44,9 +48,15 @@ Kurir yang menjemput ke lokasi Anda akan menghitung semua paket yang akan dikiri
 
 Dikarenakan tidak semua vendor beroperasi selama 24 jam, sebaiknya request pickup dilakukan sebelum jam 5 sore.
 
+> Apakah ada jumlah minimum paket jika ingin melakukan request pickup?
+
+Saat ini tidak ada jumlah minimum paket dan tidak dikenakan biaya pickup. Anda hanya perlu membayar ongkos kirim paketnya saja.
+
 > Bagaimana prosedurnya jika saya berminat menjadi driver pickup paket.id?
 
 Saat ini, paket.id driver hanyalah driver atau kurir langsung dari partner logistik kami.
+
+### Cashback 10%
 
 > Berapa lama promo cashback 10% ini berlangsung?
 
