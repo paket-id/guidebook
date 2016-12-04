@@ -20,9 +20,13 @@ Anda dapat mencantumkan apakah itu pengiriman reguler atau jenis lainnya pada in
 
 Saat ini, kode booking paket.id dapat diproses di 78 cabang Tiki. Selengkapnya cek [paket.id/location. ](/paket.id/location)Jika Anda tidak ingin repot mengantar ke vendor, dapat menggunakan fitur pickup via [website](web.md) atau [android app](android.md).
 
+> Paket yang saya kirimkan mengalami kendala dan belum diterima oleh penerima melebihi waktu yang diperkirakan, apa yang harus saya lakukan?
+
+Terkait keterlambatan pengiriman, Anda dapat menghubungi langsung customer service dari vendor logistik yang bersangkutan. Informasi tersebut dapat dilihat di halaman tracking, seperti nama vendor, email, dan nomor telepon customer service yang dapat dihubungi.
+
 > Saya sudah melakukan request pickup, lalu apa yang harus saya lakukan?
 
-Jika ada kurir yang tersedia di lokasi sekitar dan dapat menjemput barang Anda, Anda akan menerima notifikasi bahwa kurir sedang dalam perjalanan ke lokasi pickup yang Anda tentukan. Jika Anda tidak menerima notifikasi apapun atau request Anda dibatalkan oleh sistem, maka Anda dapat membuat request pickup kembali beberapa saat lagi.
+Jika ada kurir yang tersedia di lokasi sekitar dan dapat menjemput barang Anda, Anda akan menerima notifikasi bahwa kurir sedang dalam perjalanan ke lokasi pickup yang telah Anda tentukan. Jika Anda tidak menerima notifikasi apapun atau request Anda dibatalkan oleh sistem, maka Anda dapat membuat request pickup kembali beberapa saat lagi.
 
 > Bagaimana cara saya mengetahui tarif pengiriman dan proses pembayarannya jika saya menggunakan fitur pickup?
 
@@ -30,7 +34,7 @@ Kurir yang menjemput ke lokasi Anda akan menghitung semua paket yang akan dikiri
 
 > Jam berapa batas waktu jika saya ingin melakukan request pickup?
 
-Dikarenakan tidak semua vendor beroperasi selama 24 jam, sebaiknya request pickup dilakukan sebelum jam 5 sore. 
+Dikarenakan tidak semua vendor beroperasi selama 24 jam, sebaiknya request pickup dilakukan sebelum jam 5 sore.
 
 > Berapa lama promo cashback 10% ini berlangsung?
 
@@ -38,7 +42,7 @@ Masa berlaku promo cashback 10% yaitu satu bulan sejak akun Anda terdaftar promo
 
 > Apa saja syarat untuk mendaftar promo cashback 10% ?
 
-Syaratnya hanya akun paket.id Anda belum pernah terdaftar dipromo ini sebelumnya
+Syaratnya adalah akun paket.id Anda belum pernah terdaftar dipromo ini sebelumnya
 
 > Bagaimana ketentuan tarif pengiriman yang masuk dalam perhitungan promo ?
 
