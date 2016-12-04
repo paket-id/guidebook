@@ -4,6 +4,10 @@
 
 Jika Anda gagal membuat kode booking, periksa kembali input pengirim dan penerima, apakah sudah sesuai format paket.id, yaitu Nama&lt;spasi&gt;NomorTelepon&lt;spasi&gt;Alamat. Pastikan alamat yang diinput terdapat nomor rumah atau kodepos dan nomor telepon berada diantara nama dan alamat. Nama yang dimasukkan bisa lebih dari satu kata dan nomor telepon bisa diinput dengan kode negara didepan.
 
+> Apakah saya bisa menggunakan kode booking yang sama untuk tujuan pengiriman yang sama berulang kali?
+
+Tidak bisa. Satu kode booking hanya bisa untuk satu kali pengiriman, karena sistem kami akan mendaur ulang kode agar dapat digunakan kembali untuk pengiriman yang lain. Kode yang dibuat akan aktif selama satu bulan. 
+
 > Saya sudah meng-upload excel yang berisi detail alamat pengirim dan penerima. Bagaimana saya mengetahui kode booking-nya?
 
 Setelah Anda meng-upload excel, Anda dapat mengecek ke history booking. Download terlebih dahulu template excel yang tersedia sebagai pedoman pengisian alamat.
