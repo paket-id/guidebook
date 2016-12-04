@@ -1,5 +1,14 @@
 /* CSS for website */
-
-h2 {
-  color: red;
+.book {
+    .book-body {
+        .page-wrapper {
+            .page-inner {
+                section.normal {
+                    h2 {
+                        text-align: center;
+                    }
+                }
+            }
+        }
+    }
 }
