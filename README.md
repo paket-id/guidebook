@@ -16,9 +16,7 @@ Fitur - fitur paket.id:
 
 ### Partner Logistik
 
-                                                                  ![](/assets/courier_logo_sml.png)                       ![](/assets/courier_logo_tiki.png)    
-
-                                                                                         ![](/assets/sap-express.png)
+![](/assets/courier_logo_sml.png)                      ![](/assets/courier_logo_tiki.png)                      ![](/assets/sap-express.png)
 
 ---
 
