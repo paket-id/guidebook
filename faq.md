@@ -6,7 +6,7 @@ Jika Anda gagal membuat kode booking, periksa kembali input pengirim dan penerim
 
 > Apakah saya bisa menggunakan kode booking yang sama untuk tujuan pengiriman yang sama berulang kali?
 
-Tidak bisa. Satu kode booking hanya bisa untuk satu kali pengiriman, karena sistem kami akan mendaur ulang kode agar dapat digunakan kembali untuk pengiriman yang lain. Kode yang dibuat akan aktif selama satu bulan. 
+Tidak bisa. Satu kode booking hanya bisa untuk satu kali pengiriman, karena sistem kami akan mendaur ulang kode agar dapat digunakan kembali untuk pengiriman yang lain. Kode yang dibuat hanya aktif selama satu bulan.
 
 > Saya sudah meng-upload excel yang berisi detail alamat pengirim dan penerima. Bagaimana saya mengetahui kode booking-nya?
 
