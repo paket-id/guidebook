@@ -12,6 +12,10 @@ Tidak bisa. Satu kode booking hanya bisa untuk satu kali pengiriman, karena sist
 
 Setelah Anda meng-upload excel, Anda dapat mengecek ke history booking. Download terlebih dahulu template excel yang tersedia sebagai pedoman pengisian alamat.
 
+> Bagaimana cara penggunaan API?
+
+API bisa langsung digunakan untuk membuat kode, biasanya digunakan online shop yang mempunyai website.
+
 > Status kode booking belum ter-update setelah saya mengirim dengan kode booking ke vendor
 
 Tunggu beberapa saat dan muat ulang halaman history di website paket.id atau refresh halaman package pada aplikasi mobile. Jika status belum ter-update dalam 24 jam, maka Anda dapat menghubungi customer support kami di 087808783630 atau email ke cs@paket.id
@@ -39,6 +43,10 @@ Kurir yang menjemput ke lokasi Anda akan menghitung semua paket yang akan dikiri
 > Jam berapa batas waktu jika saya ingin melakukan request pickup?
 
 Dikarenakan tidak semua vendor beroperasi selama 24 jam, sebaiknya request pickup dilakukan sebelum jam 5 sore.
+
+> Bagaimana prosedurnya jika saya berminat menjadi driver pickup paket.id?
+
+Saat ini, paket.id driver hanyalah driver atau kurir langsung dari partner logistik kami.
 
 > Berapa lama promo cashback 10% ini berlangsung?
 
