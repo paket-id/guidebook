@@ -18,7 +18,19 @@ Anda dapat mencantumkan apakah itu pengiriman reguler atau jenis lainnya pada in
 
 > Vendor mana saja yang bisa menerima kiriman dengan kode booking paket.id?
 
-Saat ini, kode booking paket.id dapat diproses di 78 cabang Tiki. Selengkapnya cek [paket.id/location. ](/paket.id/location)Jika Anda tidak ingin repot mengantar ke vendor, dapat menggunakan fitur pickup via [website](web.md) atau [android app](android.md). 
+Saat ini, kode booking paket.id dapat diproses di 78 cabang Tiki. Selengkapnya cek [paket.id/location. ](/paket.id/location)Jika Anda tidak ingin repot mengantar ke vendor, dapat menggunakan fitur pickup via [website](web.md) atau [android app](android.md).
+
+> Saya sudah melakukan request pickup, lalu apa yang harus saya lakukan?
+
+Jika ada kurir yang tersedia di lokasi sekitar dan dapat menjemput barang Anda, Anda akan menerima notifikasi bahwa kurir sedang dalam perjalanan ke lokasi pickup yang Anda tentukan. Jika Anda tidak menerima notifikasi apapun atau request Anda dibatalkan oleh sistem, maka Anda dapat membuat request pickup kembali beberapa saat lagi.
+
+> Bagaimana cara saya mengetahui tarif pengiriman dan proses pembayarannya jika saya menggunakan fitur pickup?
+
+Kurir yang menjemput ke lokasi Anda akan menghitung semua paket yang akan dikirim dan Anda dapat membayar ongkos kirim kepada kurir tersebut. Anda akan menerima nota pickup dan dapat mengecek status pengiriman via website atau aplikasi mobile ketika kurir sudah memproses paket Anda di konter pengiriman.
+
+> Jam berapa batas waktu jika saya ingin melakukan request pickup?
+
+Dikarenakan tidak semua vendor beroperasi selama 24 jam, sebaiknya request pickup dilakukan sebelum jam 5 sore. 
 
 > Berapa lama promo cashback 10% ini berlangsung?
 
