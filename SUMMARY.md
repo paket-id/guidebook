@@ -32,4 +32,5 @@
     * [Customization](customization.md)
     * [Generate API](generate-api.md)
     * [Profile](profile.md)
+* [FAQ](faq.md)
 
