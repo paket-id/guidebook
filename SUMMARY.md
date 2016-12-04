@@ -18,7 +18,7 @@
     * [SMS Tracking](sms-tracking.md)
     * [Tracking Brand](tracking-brand.md)
     * [Upload Logo](upload-logo.md)
-    * History Booking
+    * [History Booking](history-booking.md)
 * [Blog](blog.md)
     * [iOS App Release](ios-app-release.md)
     * [Lokasi Vendor](lokasi-vendor.md)

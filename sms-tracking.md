@@ -1,8 +1,6 @@
 ## SMS Tracking
 
-Hai Teman,
-
-Ketika barang anda telah dikirim, kami akan mengirimkan SMS berisi tautan \_tracking\_paket anda kepada penerima barang.
+Ketika barang Anda telah dikirim, kami akan mengirimkan SMS berisi tautan tracking paket Anda kepada penerima barang.
 
 ![](/assets/sms tracking.png)
 
@@ -13,11 +11,13 @@ Format tautan _tracking_ : **paket.id\/is\/KODE** berisi informasi barang sepert
 * Nama pengirim dan penerima
 * Informasi bantuan \(_customer support_\) Vendor Logistik
 * Informasi tracking dan posisi barang
-* Branding dan tagline toko anda.
+* Branding dan tagline toko Anda.
 
-Contoh tautan tracking : **[paket.id\/is\/wdtua](http://paket.id/is/wdtua)**
+Contoh tautan tracking : [**paket.id\/is\/wdtua**](http://paket.id/is/wdtua)
 
 ![](/assets/tracking.png)
+
+JIka terjadi keterlambatan atau kendala dalam pengiriman barang, Anda dapat langsung menghubungi vendor logistik terkait.
 
 Manfaatkan tracking brand sebagai alat remarketing dimana pembeli barang di toko online anda disuguhkan link untuk kembali ke toko online anda.
 

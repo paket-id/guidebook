@@ -1,8 +1,6 @@
 ## Request Pickup via Website
 
-Hai teman,
-
-Sudah mempunyai paket yang siap dikirim ? Kamu bisa request pickup dengan cara :
+Anda bisa request pickup dengan cara :
 
 1. Buka halaman [pickup](https://paket.id/pickup)
 2. Cari lokasi pickup pada input ‘Search place’ lalu klik pada map untuk menunjukkan lokasi yang lebih akurat
@@ -28,6 +26,4 @@ Setelah proses pickup selesai, kamu bisa cek history booking untuk mengetahui pa
 ![](/assets/booking code status picked.png)
 
 Sebelum melakukan request pickup, pastikan sudah memiliki kode booking.
-
-Mudah bukan?
 

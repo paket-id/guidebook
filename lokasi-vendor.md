@@ -1,8 +1,6 @@
 ## Lokasi Vendor
 
-Hai teman,
-
-Lokasi Tiki yang telah bekerjasama dengan Paket ID bertambah menjadi 78 lokasi. Semakin mempermudah kamu dalam mengirim paket. Berikut daftarnya:
+Lokasi Tiki yang telah bekerjasama dengan Paket ID bertambah menjadi 78 lokasi. Semakin mempermudah Anda mengirim paket. Berikut daftarnya:
 
 **Jakarta Pusat**:
 
@@ -97,5 +95,5 @@ Lokasi Tiki yang telah bekerjasama dengan Paket ID bertambah menjadi 78 lokasi. 
 14. **Tiki Pegangsaan II**. JL. Raya Bekasi Pegangsaan II NO.13
 15. **Tiki Apartemen Laguna Pluit**. JL. Raya Pluit Timur Blok MM Kios 2 – 12 Apartemen Laguna Pluit
 
-Kunjungi [paket.id\/location](http://paket.id/location)
+Kunjungi paket.id[/paket.id/location](/paket.id/location)/location
 
