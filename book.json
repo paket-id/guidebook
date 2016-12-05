@@ -20,6 +20,10 @@
             "theme": "light"
         }
     },
+    "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  }
     "author": "Author",
     "title": "My Book"
 }
