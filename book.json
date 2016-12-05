@@ -1,18 +1,26 @@
 {
     "plugins": [
-        "theme-api"
+        "theme-api",
+        "-search"
     ],
-    "pluginsConfig": {
-        "theme-api": {
-            "split": true
-        }
-    },
-    "styles" : {
-        "website" : "styles/website.css",
+    "styles": {
+        "website": "styles/website.css",
         "ebook": "styles/ebook.css",
         "pdf": "styles/pdf.css",
         "mobi": "styles/mobi.css",
         "epub": "styles/epub.css"
+    },
+    "pluginsConfig": {
+        "theme-api": {
+            "languages": "",
+            "split": true,
+            "theme": "light"
+        },
+        "fontsettings": {
+            "theme": "night",
+            "family": "sans",
+            "size": 2
+        }
     },
     "author": "Author",
     "title": "My Book"
