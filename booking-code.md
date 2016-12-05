@@ -33,9 +33,15 @@ Simak gambar dibawah ini untuk memperjelas proses pembuatan kode
 
 _Dari platform web Paket ID, masukan detil pengirim dan penerima dalam format NAMA&lt;spasi&gt;TELEPON&lt;spasi&gt;ALAMAT_
 
-**Android** \(**paket.id\/apps\)**
+Jika ingin memasukkan detail penerima yang sudah ada, klik icon list \(address book\) di sebelah kanan atas input receiver
+
+![](/assets/address book button.png)
+
+Mulailah mengetik nama penerima yang akan dimasukkan di input receiver
+
+![](/assets/address book.png)
+
+**Android** \(**paket.id/apps\)**
 
 ![](/assets/booking code done.png)
-
-
 

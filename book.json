@@ -1,7 +1,12 @@
 {
     "plugins": [
         "theme-api",
-        "-search"
+        "-search",
+        "disqus",
+        "comment",
+        "download-pdf",
+        "forkmegithub",
+        "pdf-styling"
     ],
     "styles": {
         "website": "styles/website.css",
@@ -20,6 +25,13 @@
             "theme": "night",
             "family": "sans",
             "size": 2
+        },
+        "comment": {
+            "highlightCommented": true
+        },
+        "forkmegithub": {
+            "url": "https://github.com/paket-id",
+            "color": "gray"
         }
     },
     "author": "Author",
