@@ -2,11 +2,9 @@
     "plugins": [
         "theme-api",
         "-search",
-        "disqus",
-        "comment",
-        "download-pdf",
-        "forkmegithub",
-        "pdf-styling"
+        "-fontsettings",
+        "-highlight",
+        "-lunr"
     ],
     "styles": {
         "website": "styles/website.css",
@@ -20,18 +18,6 @@
             "languages": "",
             "split": true,
             "theme": "light"
-        },
-        "fontsettings": {
-            "theme": "night",
-            "family": "sans",
-            "size": 2
-        },
-        "comment": {
-            "highlightCommented": true
-        },
-        "forkmegithub": {
-            "url": "https://github.com/paket-id",
-            "color": "gray"
         }
     },
     "author": "Author",

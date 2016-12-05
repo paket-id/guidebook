@@ -34,6 +34,8 @@ Saat ini, kode booking paket.id dapat diproses di 78 cabang Tiki. Selengkapnya c
 
 Terkait keterlambatan pengiriman, Anda dapat menghubungi langsung customer service dari vendor logistik yang bersangkutan. Informasi tersebut dapat dilihat di halaman tracking, seperti nama vendor, email, dan nomor telepon customer service yang dapat dihubungi.
 
+---
+
 ### Pickup
 
 > Saya sudah melakukan request pickup, lalu apa yang harus saya lakukan?
@@ -55,6 +57,8 @@ Saat ini tidak ada jumlah minimum paket dan tidak dikenakan biaya pickup. Anda h
 > Bagaimana prosedurnya jika saya berminat menjadi driver pickup paket.id?
 
 Saat ini, paket.id driver hanyalah driver atau kurir langsung dari partner logistik kami.
+
+---
 
 ### Cashback 10%
 
