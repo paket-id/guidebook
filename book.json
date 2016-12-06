@@ -1,5 +1,6 @@
 {
     "plugins": [
+        "numbered-headings",
         "theme-api",
         "-search",
         "-fontsettings",
