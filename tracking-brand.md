@@ -14,7 +14,7 @@ Penerima dengan paket yang sudah dikirim akan menerima sms berisi link untuk tra
 
 ![](/assets/tracking.png)
 
-#### _Contoh link dengan kode booking “WDTUA” : _[_http://paket.id/is/WDTUA_](http://paket.id/is/EFMUO)
+_Contoh link dengan kode booking “WDTUA” : _[_http://paket.id/is/WDTUA_](http://paket.id/is/WDTUA)
 
 Brand Anda akan berada paling atas dari status pengiriman. Logo, url, beserta deskripsinya tercantum dengan lengkap
 
