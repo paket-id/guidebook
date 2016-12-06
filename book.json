@@ -15,9 +15,7 @@
     },
     "pluginsConfig": {
         "theme-api": {
-            "languages": "",
-            "split": true,
-            "theme": "light"
+            "split": true
         }
     },
     "structure": {
