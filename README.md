@@ -22,7 +22,9 @@ Fitur - fitur paket.id:
 
 ### Download Aplikasi Mobile
 
-[![](/assets/Download_on_the_App_Store_Badge.svg.png)](https://itunes.apple.com/us/app/paket-id/id1079939249?ls=1&mt=8)  ![](/assets/en-play-badge-(2).png)
+[![](/assets/Download_on_the_App_Store_Badge.svg.png)](https://itunes.apple.com/us/app/paket-id/id1079939249?ls=1&mt=8)
+
+![](/assets/en-play-badge-(2).png)
 
 ### Help & Support
 
