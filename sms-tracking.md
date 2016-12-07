@@ -13,7 +13,7 @@ Format tautan _tracking_ : **paket.id\/is\/KODE** berisi informasi barang sepert
 * Informasi tracking dan posisi barang
 * Branding dan tagline toko Anda.
 
-Contoh tautan tracking : [**paket.id\/is\/wdtua**](http://paket.id/is/wdtua)
+Contoh tautan tracking : [**paket.id/is/wdtua**](http://paket.id/is/wdtua)
 
 ![](/assets/tracking.png)
 
