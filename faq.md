@@ -34,6 +34,10 @@ Saat ini, kode booking paket.id dapat diproses di 78 cabang Tiki. Selengkapnya c
 
 Terkait keterlambatan pengiriman, Anda dapat menghubungi langsung customer service dari vendor logistik yang bersangkutan. Informasi tersebut dapat dilihat di halaman tracking, seperti nama vendor, email, dan nomor telepon customer service yang dapat dihubungi.
 
+> Layanan PO BOX. Dapatkah saya membuat beberapa daftar alamat penerima, sehingga pengirim atau siapapun cukup menuliskan kode penerima tersebut?
+
+Saat ini kami belum ada fitur PO BOX.
+
 ---
 
 ### Pickup
