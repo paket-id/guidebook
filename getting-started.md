@@ -11,6 +11,8 @@ Pendaftaran akun paket.id hanya memerlukan alamat email dan password.
 3. Melalui aplikasi iOS Paket ID. Masukkan email dan password lalu klik Register
 
 
+Password dengan ketentuan minimal 6 \(enam\) karakter dan 1 \(satu\) angka.
+
 Setelah registrasi, Anda akan menerima email berisi link verifikasi akun Anda dan jika sudah verifikasi, maka Anda dapat login dan menggunakan fitur Paket ID
 
 ## Login
