@@ -25,5 +25,7 @@ Setelah proses pickup selesai, kamu bisa cek history booking untuk mengetahui pa
 
 ![](/assets/booking code status picked.png)
 
-Sebelum melakukan request pickup, pastikan sudah memiliki kode booking.
+Sebelum melakukan request pickup, pastikan sudah memiliki kode booking. Jika Anda belum mempunyai kode booking, klik 'click here' pada alert yang muncul di atas map.
+
+![](/assets/book package first.png)
 

@@ -2,7 +2,7 @@ Kabar gembira !
 
 Bagi Anda pengguna iOS, kini dapat mengunduh aplikasi Paket ID di [iTunes Store](https://itunes.apple.com/us/app/paket-id/id1079939249?ls=1&mt=8) :\)
 
-![](/assets/5.5-inch (iPhone 6+) - Screenshot 3 resize.jpg\)
+![](/assets/paket-app-ios.jpg)
 
 Fitur – fitur yang ada di Paket ID iOS:
 
