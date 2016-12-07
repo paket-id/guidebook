@@ -20,7 +20,6 @@ Nomor Telepon bisa memakai karakter berikut: \(\)\/- dan spasi
 _Contoh_
 
 ```
-
 Andi Wijaya 0891-2912-1229 Jln Dukuh atas no 21, 11221
 
 Andi Wijaya
@@ -32,7 +31,6 @@ Jln Duku Atas no 21, Jakarta 11221
 Andi Wijaya 089122121229
 
 Jln Duku Atas No 21, Jakarta 11221
-
 ```
 
 Jika ingin memakai nomor di nama ada 2 cara
@@ -45,14 +43,20 @@ Jika ingin memakai nomor di nama ada 2 cara
 _Contoh_
 
 ```
-
 Andi Wijaya-111222 0891-2912-1229 Jln Dukuh atas no 21, 11221
 
 Andi Wijaya #111222 0891 2212 1229 Jln Duku Atas no 21, Jakarta 11221
 
 Andi Wijaya 089122121229 Jln Duku Atas No 21, Jakarta 11221
-
 ```
+
+Klik link "Example" pada website paket.id
+
+![](/assets/example format button.png)
+
+Akan muncul pop-up dialog seperti ini:
+
+### ![](/assets/example format.png)
 
 ### Format marketplace
 
@@ -70,11 +74,9 @@ Dari aplikasi Bukalapak -&gt; lanjut ke halaman Detil Transaksi -&gt; pilih tab 
 
 Di aplikasi **Shopee** &gt; lanjut ke halaman Order Details &gt; tekan **COPY** bagian “**Delivery Address**”.
 
-
 **Tokopedia**:
 
 Copy alamat dari website Tokopedia.
-
 
 Di Paket ID -&gt; tekan dan tahan di kotak penerima -&gt; pilih “Paste”, setelah data yang tersalin tertulis -&gt; tekan Book untuk langsung mendapatkan ID Paket
 

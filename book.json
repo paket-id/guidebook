@@ -1,2 +1,28 @@
-{ "plugins": ["theme-api"], "pluginsConfig": { "theme-api": { "split": true } } }
-
+{
+    "plugins": [
+        "numbered-headings",
+        "theme-api",
+        "-search",
+        "-fontsettings",
+        "-highlight",
+        "-lunr"
+    ],
+    "styles": {
+        "website": "styles/website.css",
+        "ebook": "styles/ebook.css",
+        "pdf": "styles/pdf.css",
+        "mobi": "styles/mobi.css",
+        "epub": "styles/epub.css"
+    },
+    "pluginsConfig": {
+        "theme-api": {
+            "split": true
+        }
+    },
+    "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+    },
+    "author": "Author",
+    "title": "My Book"
+}

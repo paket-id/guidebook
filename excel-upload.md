@@ -1,7 +1,5 @@
 ## Excel Upload
 
-Hai teman,
-
 Gunakan fitur “Excel Book” untuk mendapatkan kode booking pengiriman dalam jumlah besar.
 
 Cara penggunaan :
@@ -13,7 +11,7 @@ Cara penggunaan :
 
 ![](/assets/upload excel.png)
 
- Template contoh \(dalam contoh ini menggunakan data yang sama sebanyak 9 alamat, data ini dapat diisi sesuai kebutuhan\) :
+Template contoh \(dalam contoh ini menggunakan data yang sama sebanyak 9 alamat, data ini dapat diisi sesuai kebutuhan\) :
 
 ![](/assets/contoh_excel view.png)
 
@@ -22,6 +20,4 @@ Setelah upload, cek pada tab ‘History’. Kode booking akan tercantum secara o
 ![](/assets/booking code from excel book.png)
 
 Cantumkan kode booking sesuai paket tujuan dan barang pesanan siap diantar ke vendor yang telah bermitra dengan Paket ID.
-
-Selamat mencoba !
 

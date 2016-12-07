@@ -1,14 +1,13 @@
 ## Upload Logo
 
-Hai Teman,
-
 Gunakan logo brand-mu pada label kode booking dengan cara :
 
 1. Login ke halaman [paket.id](https://paket.id/).
 2. Masuk ke menu [setting](https://paket.id/settings) dan pilih tab [customization](https://paket.id/settings/uploadlogo)
 3. Klik atau drop file image pada area yang kami sediakan.
 
-* Jika upload sukses, maka akan muncul tampilan preview logo.
+4. Jika upload sukses, maka akan muncul tampilan preview logo.
+
 
 ![](/assets/settings - upload logo.png)
 Ketentuan upload logo :
