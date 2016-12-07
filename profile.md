@@ -12,5 +12,5 @@ Pada aplikasi Android, pilih menu Settings
 
 Nama yang sudah tersimpan akan tertera di drawer menu
 
-![](/assets/drawer menu open (2).png\)
+![](/assets/drawer-menu-open.png)
 
