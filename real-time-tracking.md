@@ -1,6 +1,6 @@
 ## Real Time Tracking
 
-Dapatkan informasi tracking semua paket dalam satu platform dengan cara cek halaman [history ](https://paket.id/book/history)untuk mengetahui status terakhir dan posisi paket.
+Dapatkan informasi tracking semua paket dalam satu platform dengan cara cek halaman [history ](https://paket.id/book/history)untuk mengetahui status terakhir dan posisi paket yang Anda kirimkan.
 
 ![](/assets/history - real time tracking.png)
 

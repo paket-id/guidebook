@@ -6,6 +6,7 @@ Anda bisa menampilkan brand toko Anda pada halaman tracking resi dengan cara :
 2. Pada menu ‘Settings’, pilih tab ‘Customization’ lalu klik ‘Tracking brand’.
 
 ![](/assets/settings - tracking brand.png)
+
 * Ceklis pada tulisan ‘Enable custom branding’ dan isi form ‘Branding Name’, ‘URL’, dan ‘Tag line for your Ads’ sesuai dengan identitas toko Anda.
 * Klik ‘Save’.
 
@@ -13,9 +14,7 @@ Penerima dengan paket yang sudah dikirim akan menerima sms berisi link untuk tra
 
 ![](/assets/tracking.png)
 
-#### _Contoh link dengan kode booking “WDTUA” : _[_http:\/\/paket.id\/is\/WDTUA_](http://paket.id/is/EFMUO)
+_Contoh link dengan kode booking “WDTUA” : _[_http://paket.id/is/WDTUA_](http://paket.id/is/WDTUA)
 
-Brand Anda akan berada paling atas dari status pengiriman. Logo, url, beserta deskripsinya tercantum dengan lengkap.
-
-Selamat mencoba !
+Brand Anda akan berada paling atas dari status pengiriman. Logo, url, beserta deskripsinya tercantum dengan lengkap
 

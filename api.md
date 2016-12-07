@@ -10,6 +10,8 @@ Versi API dan tanggal terakhir update akan ditulis di sini
 
 | Versi | Info | Update Terakhir |
 | --- | --- | --- |
-| 1.0 | Api Pertama untuk fitur awal yang digunakan oleh user | 2\/6\/15 |
-| [2.0](versi-2.md) | Api Kedua untuk fitur Booking, Tariff dan Vendor | 4\/2\/16 |
+| 1.0 | Api Pertama untuk fitur awal yang digunakan oleh user | 2/6/15 |
+| [2.0](versi-2.md) | Api Kedua untuk fitur Booking, Tariff dan Vendor | 4/2/16 |
+
+
 

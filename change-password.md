@@ -1,6 +1,6 @@
 ## Change Password
 
-Kamu dapat mengganti password dengan membuka halaman [paket.id/settings/changepassword](https://paket.id/settings/changepassword)
+Anda dapat mengganti password dengan membuka halaman [paket.id/settings/changepassword](https://paket.id/settings/changepassword)
 
 1. Masukkan password lama
 
@@ -9,9 +9,10 @@ Kamu dapat mengganti password dengan membuka halaman [paket.id/settings/changepa
 
 ![](/assets/settings - password doesnt match.png)
 
-3. Ulangi password baru pada input Confirm New Password.
+1. Ulangi password baru pada input Confirm New Password.
 
-4. Klik save
+2. Klik save
+
 
 ![](/assets/settings - password match.png)
 

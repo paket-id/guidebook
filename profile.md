@@ -1,6 +1,6 @@
 ## Profile
 
-Kamu dapat mengganti user name dan verifikasi nomor telepon di halaman [paket.id/settings](https://paket.id/settings)
+Anda dapat mengganti user name dan verifikasi nomor telepon di halaman [paket.id/settings](https://paket.id/settings)
 
 Verifikasi nomor telepon diperlukan untuk dapat menggunakan fitur pickup.
 
@@ -12,5 +12,5 @@ Pada aplikasi Android, pilih menu Settings
 
 Nama yang sudah tersimpan akan tertera di drawer menu
 
-![](/assets/drawer menu open (2).png\)
+![](/assets/drawer-menu-open.png)
 
