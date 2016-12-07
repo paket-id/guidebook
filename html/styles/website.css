@@ -1,0 +1,26 @@
+/* CSS for website */
+.markdown-section h1,h2
+{
+    text-align: center;
+}
+
+.book-summary
+{
+    background-color: #2790b0;
+}
+
+.book-summary ul.summary li a
+{
+    color: #e2edf2;
+}
+
+.book-summary ul.summary li.active a
+{
+    color: #062c36;
+}
+
+.book-summary ul.summary li a:hover
+{
+    color: #062c36;
+    text-decoration: none;
+}
