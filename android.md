@@ -19,7 +19,7 @@ Anda bisa request pickup via aplikasi Android Paket.id dengan cara:
 4. Klik Pickup
 
 
-![](/assets/pickup-form.png)
+![](/assets/pickup form.png)
 
 1. Tunggu beberapa saat
 
