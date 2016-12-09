@@ -12,7 +12,9 @@ Muncul simbol ‘i‘ disamping kode booking dikarenakan kodepos yang dimasukkan
 
 Pada Paket ID Android App akan muncul seperti ini :
 
-
-
 Kamu bisa membuat kode bookingnya lagi dengan alamat dan kodepos yang benar agar tidak terjadi kendala dalam proses pengirimannya.
+
+Pada Android App, akan terlihat seperti ini:
+
+![](/assets/wrong zipcode.png)
 
