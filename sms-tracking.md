@@ -2,7 +2,7 @@
 
 Ketika barang Anda telah dikirim, kami akan mengirimkan SMS berisi tautan tracking paket Anda kepada penerima barang.
 
-![](/assets/sms tracking.png)
+![](/assets/Screenshot_2016-12-07-16-29-25-1.png)
 
 Format tautan _tracking_ : **paket.id\/is\/KODE** berisi informasi barang seperti
 
