@@ -2,10 +2,10 @@
     "plugins": [
         "numbered-headings",
         "theme-api",
-        "-search",
+        "search",
         "-fontsettings",
         "-highlight",
-        "-lunr"
+        "lunr"
     ],
     "styles": {
         "website": "styles/website.css",
