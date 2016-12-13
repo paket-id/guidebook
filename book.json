@@ -3,9 +3,11 @@
         "numbered-headings",
         "theme-api",
         "search",
-        "-fontsettings",
-        "-highlight",
-        "lunr"
+        "fontsettings",
+        "highlight",
+        "lunr",
+        "comment",
+        "anchor-navigation"
     ],
     "styles": {
         "website": "styles/website.css",
@@ -24,5 +26,5 @@
     "summary": "SUMMARY.md"
     },
     "author": "Author",
-    "title": "My Book"
+    "title": "Paket ID Guidebook"
 }
