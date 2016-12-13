@@ -18,11 +18,12 @@
     "pluginsConfig": {
         "theme-api": {
             "split": true
+        },
+        "fontsettings": {
+            "theme": "sepia",
+            "family": "sans",
+            "size": 2
         }
-    },
-    "structure": {
-    "readme": "README.md",
-    "summary": "SUMMARY.md"
     },
     "author": "Author",
     "title": "Paket ID Guidebook"
