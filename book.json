@@ -6,8 +6,7 @@
         "fontsettings",
         "highlight",
         "lunr",
-        "comment",
-        "anchor-navigation"
+        "comment"
     ],
     "styles": {
         "website": "styles/website.css",
