@@ -1,12 +1,12 @@
 {
     "plugins": [
         "numbered-headings",
-        "theme-api",
         "search",
         "fontsettings",
         "highlight",
         "lunr",
-        "comment"
+        "comment",
+        "-theme-default"
     ],
     "styles": {
         "website": "styles/website.css",
