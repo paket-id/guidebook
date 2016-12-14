@@ -6,7 +6,7 @@
         "highlight",
         "lunr",
         "comment",
-        "-theme-default"
+        "theme-default"
     ],
     "styles": {
         "website": "styles/website.css",
