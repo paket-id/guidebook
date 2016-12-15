@@ -5,7 +5,7 @@ Anda bisa request pickup via aplikasi Android Paket.id dengan cara:
 1. Buka aplikasi Paket ID
 2. Klik Request Pickup dari halaman Package
 
-![](/assets/package.png)
+![](/assets/package list.png)
 
 1. Lalu akan tampil pickup map untuk mengatur lokasi penjemputan. Geser map untuk mendapatkan lokasi yang tepat
 
@@ -19,7 +19,7 @@ Anda bisa request pickup via aplikasi Android Paket.id dengan cara:
 4. Klik Pickup
 
 
-![](/assets/pickupform.png)
+![](/assets/pickup form choose courier.png)
 
 1. Tunggu beberapa saat
 
