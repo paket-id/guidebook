@@ -41,7 +41,13 @@ Mulailah mengetik nama penerima yang akan dimasukkan di input receiver
 
 ![](/assets/address book.png)
 
+Anda juga dapat mengetahui estimasi tarif dari kode booking yang baru dibuat pada website maupun aplikasi Android. Cek disini untuk lebih lanjut.
+
 **Android** \(**paket.id/apps\)**
 
-![](/assets/booking code done.png)
+Klik pada button Rp untuk mengetahui estimasi ongkos kirimnya.
+
+![](/assets/code with estimated tariff.png)
+
+
 

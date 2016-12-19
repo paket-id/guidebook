@@ -1,11 +1,12 @@
 {
     "plugins": [
         "numbered-headings",
-        "theme-api",
-        "-search",
-        "-fontsettings",
-        "-highlight",
-        "-lunr"
+        "search",
+        "fontsettings",
+        "highlight",
+        "lunr",
+        "comment",
+        "theme-default"
     ],
     "styles": {
         "website": "styles/website.css",
@@ -17,12 +18,13 @@
     "pluginsConfig": {
         "theme-api": {
             "split": true
+        },
+        "fontsettings": {
+            "theme": "white",
+            "family": "sans",
+            "size": 2
         }
     },
-    "structure": {
-    "readme": "README.md",
-    "summary": "SUMMARY.md"
-    },
     "author": "Author",
-    "title": "My Book"
+    "title": "Paket ID Guidebook"
 }

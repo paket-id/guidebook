@@ -6,10 +6,10 @@ Anda bisa request pickup dengan cara :
 2. Cari lokasi pickup pada input ‘Search place’ lalu klik pada map untuk menunjukkan lokasi yang lebih akurat
 3. Masukkan keterangan tambahan pada input ‘Extra detail’, misalnya patokan rumah
 4. Pilih jenis kendaraannya, bisa mobil atau motor
-5. Pilih kurir yang akan menjemput, Tiki atau SML Express
+5. Pilih kurir yang akan menjemput: Tiki, SML Express, atau JNE
 6. Klik ‘Pickup’
 
-![](/assets/pickup form new.png)
+![](/assets/pickup form - choose tiki.png)
 
 Setelah request pickup dilakukan, kamu bisa cek status pickup di halaman history pickup
 
