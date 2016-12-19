@@ -1,6 +1,5 @@
 {
     "plugins": [
-        "numbered-headings",
         "search",
         "fontsettings",
         "highlight",
@@ -26,5 +25,10 @@
         }
     },
     "author": "Author",
-    "title": "Paket ID Guidebook"
+    "title": "Paket ID Guidebook",
+    "links": {
+        "sidebar": {
+            "Kembali ke paket.id": "https://paket.id"
+        }
+    }
 }
