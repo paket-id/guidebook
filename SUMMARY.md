@@ -1,7 +1,5 @@
 # Summary
 
-##### [kembali ke paket.id](https://paket.id)
-
 * [Perkenalan](README.md)
 * [Kebijakan Privasi](kebijakan-privasi.md)
 * [Getting Started](getting-started.md)
