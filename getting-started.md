@@ -25,6 +25,3 @@ Login dapat melalui email atau akun facebook dan gmail.
 
 2. Petunjuk pengisian [form tambahan](penjelasan-input.md) yang berisi informasi catatan dan konten kiriman.
 
-
-
-
