@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Perkenalan](README.md)
 * [Kebijakan Privasi](kebijakan-privasi.md)
 * [Getting Started](getting-started.md)
     * [Format Alamat](form-alamat.md)
@@ -34,3 +34,4 @@
     * [Generate API Key](generate-api-key.md)
     * [Profil](profil.md)
 * [FAQ](faq.md)
+
