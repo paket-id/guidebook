@@ -31,7 +31,7 @@
         // Custom links at top of sidebar
         "sidebar": {
             "Custom link name": "https://customlink.com"
-        },
+        }
     },
     "author": "Author",
     "title": "Paket ID Guidebook"
