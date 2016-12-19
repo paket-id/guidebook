@@ -1,6 +1,6 @@
-## Check Tariff
+## Cek Ongkir
 
-Anda dapat mengecek ongkos kirim di paket.id/tariff
+Anda dapat mengecek ongkos kirim di [paket.id/tariff](/paket.id/tariff)
 
 * Masukkan kota asal
 
