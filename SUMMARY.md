@@ -20,7 +20,6 @@
     * [Tracking Brand](tracking-brand.md)
     * [Shipment Report](shipment-report.md)
     * [Upload Logo](upload-logo.md)
-    * Estimasi Ongkir
 * [Berita](berita.md)
     * [iOS App Release](ios-app-release.md)
     * [Lokasi Vendor](lokasi-vendor.md)

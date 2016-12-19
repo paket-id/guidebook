@@ -1,27 +1,28 @@
 # Fitur - Fitur Paket ID
 
-1. [Kode Booking](booking-code.md)
+1. [Kode Booking](kode-booking.md)
 
-2. [Cek Tarif](check-tariff.md)
+2. [Cek Ongkir](cek-ongkir.md)
 
-3. [Excel Upload](excel-upload.md)
+3. [Estimasi Tarif](estimasi-tarif.md)
 
-4. [History Booking](history-booking.md)
+4. [Excel Upload](excel-upload.md)
 
-5. [Pickup](pickup.md)
+5. [History Booking](history-booking.md)
 
-6. [Print Label](print-label.md)
+6. [Pickup](pickup.md)
 
-7. [Real Time Tracking](real-time-tracking.md)
+7. [Print Label](print-label.md)
 
-8. [SMS Tracking](sms-tracking.md)
+8. [Real Time Tracking](real-time-tracking.md)
 
-9. [Tracking Brand](tracking-brand.md)
+9. [SMS Tracking](sms-tracking.md)
 
-10. [Shipment Report](shipment-report.md)
+10. [Tracking Brand](tracking-brand.md)
 
-11. [Upload Logo](upload-logo.md)
+11. [Shipment Report](shipment-report.md)
 
+12. [Upload Logo](upload-logo.md)
 
 
 
