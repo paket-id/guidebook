@@ -1,13 +1,11 @@
 {
     "plugins": [
-        "numbered-headings",
         "search",
         "fontsettings",
         "highlight",
         "lunr",
         "comment",
-        "theme-default",
-        "multipart"
+        "theme-default"
     ],
     "styles": {
         "website": "styles/website.css",
@@ -26,11 +24,11 @@
             "size": 2
         }
     },
+    "author": "Author",
+    "title": "Paket ID Guidebook",
     "links": {
         "sidebar": {
             "kembali ke paket.id": "https://paket.id"
         }
-    },
-    "author": "Author",
-    "title": "Paket ID Guidebook"
+    }
 }
