@@ -10,8 +10,7 @@ Anda dapat mengecek ongkos kirim di paket.id/tariff
 
 * Klik Search
 
-
 ![](/assets/check tariff - multivendor.png)
 
-Anda dapat pula mengecek tarif berdasarkan volume, masukkan nilai panjang, lebar, dan tinggi dari paket yang akan Anda kirim.
+Anda dapat pula mengecek tarif berdasarkan volume, masukkan nilai panjang, lebar, dan tinggi \(dalam centimeter\) dari paket yang akan Anda kirim.
 

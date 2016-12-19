@@ -41,9 +41,7 @@ Mulailah mengetik nama penerima yang akan dimasukkan di input receiver
 
 ![](/assets/address book.png)
 
-Jika pada input sender dan receiver tercantum kodeposnya, klik 'See estimated tariff' pada kotak dibawah Next Step.
-
-![](/assets/estimated tariff.png)
+Anda juga dapat mengetahui estimasi tarif dari kode booking yang baru dibuat pada website maupun aplikasi Android. Cek disini untuk lebih lanjut.
 
 **Android** \(**paket.id/apps\)**
 
@@ -51,5 +49,5 @@ Klik pada button Rp untuk mengetahui estimasi ongkos kirimnya.
 
 ![](/assets/code with estimated tariff.png)
 
-![](/assets/estimated tariff - app.png)
+
 
