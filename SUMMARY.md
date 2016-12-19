@@ -28,7 +28,7 @@
     * [JNT](jnt.md)
 * [API](api.md)
     * [Versi 2](versi-2.md)
-* [Pengaturan](settings.md)
+* [Pengaturan](pengaturan.md)
     * [Ganti Password](ganti-password.md)
     * [Customization](customization.md)
     * [Generate API Key](generate-api-key.md)
