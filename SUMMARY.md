@@ -20,6 +20,7 @@
     * [Tracking Brand](tracking-brand.md)
     * [Shipment Report](shipment-report.md)
     * [Upload Logo](upload-logo.md)
+    * [Validasi Kodepos](validasi-kodepos.md)
 * [Berita](berita.md)
     * [iOS App Release](ios-app-release.md)
     * [Lokasi Vendor](lokasi-vendor.md)
