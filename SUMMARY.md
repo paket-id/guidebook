@@ -1,10 +1,10 @@
 # Summary
 
-* 1.1 [Perkenalan](README.md)
-* 1.2 [Kebijakan Privasi](kebijakan-privasi.md)
-* 1.3 [Getting Started](getting-started.md)
-    * 1.3.1 [Format Alamat](form-alamat.md)
-    * 1.3.2 [Penjelasan Input](penjelasan-input.md)
+* [Perkenalan](README.md)
+* [Kebijakan Privasi](kebijakan-privasi.md)
+* [Getting Started](getting-started.md)
+    * [Format Alamat](form-alamat.md)
+    * [Penjelasan Input](penjelasan-input.md)
 * [Fitur](fitur.md)
     * [Kode Booking](kode-booking.md)
     * [Cek Ongkir](cek-ongkir.md)
