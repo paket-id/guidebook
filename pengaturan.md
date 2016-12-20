@@ -1,4 +1,4 @@
-## User Preferences
+## Pengaturan
 
 1. [Ganti Password](ganti-password.md)
 
