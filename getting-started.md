@@ -16,7 +16,7 @@ Setelah registrasi, Anda akan menerima _email_ berisi tautan verifikasi akun And
 
 ## Login
 
-Login dapat melalui _email _atau akun _facebook_ dan _gmail_.
+Login dapat melalui _email_ atau akun _facebook_ dan _gmail_.
 
 ## Cara Pengisian Form :
 

@@ -4,7 +4,7 @@
 
 2. [Excel Upload](excel-upload.md)
 
-3. [Tracking](status-paket.md)
+3. [Tracking](tracking.md)
 
 4. [Cetak Label](cetak-label.md)
 

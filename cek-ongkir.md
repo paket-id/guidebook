@@ -1,6 +1,6 @@
 ## Cek Ongkir
 
-Anda dapat mengecek ongkos kirim di website [paket.id/tariff](/paket.id/tariff) dan _mobile app_.
+Anda dapat mengecek ongkos kirim di website [paket.id/tariff](https://paket.id/tariff) dan _mobile app_.
 
 * Masukkan kota asal
 

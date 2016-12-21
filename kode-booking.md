@@ -13,7 +13,7 @@ Beberapa keuntungan dari kode Paket ID
 
 Caranya pembuatan kode :
 
-1. Buka situs paket.id atau aplikasi Paket ID \(_download_ di [paket.id/apps](/paket.id/apps)\)
+1. Buka situs paket.id atau aplikasi Paket ID \(_download_ di [paket.id/apps](https://paket.id/apps)\)
 2. Login ke platform Paket ID atau registrasi jika belum mempunyai login
 3. Ke menu _booking_
 4. Masukan detil pengirim dengan informasi anda

@@ -2,7 +2,7 @@
 
 Anda dapat melihat laporan pengiriman barang selama 30 hari terakhir secara lengkap yang berisi total paket yang dikirim, total tarif, dan rata-rata paket yang dikirim dalam sehari. Caranya:
 
-1. Login ke [paket.id](http://paket.id/)
+1. Login ke [paket.id](https://paket.id/)
 2. Klik _dashboard_
 
 3. Tampil laporan pengiriman 30 hari terakhir dan tampilan grafik dibawahnya.
