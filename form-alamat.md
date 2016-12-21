@@ -14,7 +14,7 @@ Paket ID secara otomatis dapat mengidentifikasi Nama, Nomor Telepon dan Alamat d
 
 Dianjurkan untuk mempunyai kodepos di alamat untuk memudahkan petugas konter memvalidasi wilayah dan tariff pengiriman
 
-Nomor Telepon bisa memakai karakter berikut: \(\)\/- dan spasi
+Nomor Telepon bisa memakai karakter berikut: \(\) / - dan spasi
 
 _Contoh_
 

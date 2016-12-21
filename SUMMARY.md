@@ -27,6 +27,7 @@
     * [Validasi Kodepos](validasi-kodepos.md)
 * [API](api.md)
     * [Versi 2](versi-2.md)
+        * Baca Kode Paket
 * [Pengaturan](pengaturan.md)
     * [Ganti Password](ganti-password.md)
     * [Customization](customization.md)
