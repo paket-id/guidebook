@@ -26,6 +26,7 @@
     * [Lokasi Vendor](lokasi-vendor.md)
 * [Syarat dan Ketentuan](syarat-dan-ketentuan.md)
     * [TIKI](tiki.md)
+    * [JNE](jne.md)
     * [JNT](jnt.md)
 * [API](api.md)
     * [Versi 2](versi-2.md)
