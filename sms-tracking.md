@@ -19,7 +19,7 @@ Contoh tautan tracking : [**paket.id/is/wdtua**](http://paket.id/is/wdtua)
 
 JIka terjadi keterlambatan atau kendala dalam pengiriman barang, Anda dapat langsung menghubungi vendor logistik terkait.
 
-Manfaatkan _tracking brand_ sebagai alat _remarketing _dimana pembeli barang di toko online anda disuguhkan tautanuntuk kembali ke toko online anda.
+Manfaatkan _tracking brand_ sebagai alat _remarketing_ dimana pembeli barang di toko online anda disuguhkan tautanuntuk kembali ke toko online anda.
 
 Pelajari tentang _tracking brand_ dan manfaatnya di [sini](tracking-brand.md).
 
