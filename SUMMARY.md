@@ -6,7 +6,7 @@
     * [TIKI](tiki.md)
     * [JNE](jne.md)
     * [JNT](jnt.md)
-* [Memulai](getting-started.md)
+* [Memulai](memulai.md)
     * [Format Alamat](format-alamat.md)
         * [Format Marketplace](format-marketplace.md)
     * [Input Opsional](input-opsional.md)
