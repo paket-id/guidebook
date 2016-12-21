@@ -1,4 +1,4 @@
-## Generate API Key
+## Membuat API Key
 
 Untuk mendapatkan API Key masuk ke halaman [paket.id/settings/apikeyuser](https://paket.id/settings/apikeyuser)
 
