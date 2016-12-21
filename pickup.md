@@ -1,6 +1,6 @@
 ## Pickup Service
 
-Anda dapat melakukan request pickup melalui [web](web.md) atau [android](android.md).
+Anda dapat melakukan request pickup melalui web atau android.
 
 Sebelum melakukan request pickup, pastikan sudah memiliki kode booking. Jika Anda belum mempunyai kode booking, klik '_click here_' pada _alert_ yang muncul di atas peta.
 
