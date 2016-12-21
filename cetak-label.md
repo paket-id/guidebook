@@ -7,21 +7,21 @@ Kode Booking yang sudah dibuat dapat dicetak dengan mudah, caranya :
 
 ![](/assets/booking code from excel book.png)
 
-* Logo yang sudah di-_upload _akan tampil pada label dengan kode booking yang statusnya ‘_booked_’.
-* Terdapat 3 \(tiga\) pilihan mode label yang akan dicetak dan range tanggal kode bookingnya :
+* Logo yang sudah di- _upload_ akan tampil pada label dengan kode booking yang statusnya‘_booked_’.
+* Terdapat 3 \(tiga\) pilihan mode label yang akan dicetak dan jaraktanggal kode bookingnya :
 
-* Tampilan _full _dengan alamat penerima dan pengirim, kode booking, serta _barcode _:
+* Tampilan _full_ dengan alamat penerima dan pengirim, kode booking, serta _barcode_:
 
 ![](/assets/print label full - new.png)  
-2. Tampilan _mini _mencantumkan alamat penerima dan kode booking:
+2. Tampilan _mini_ mencantumkan alamat penerima dan kode booking:
 
 ![](/assets/print label mini - new.png)
 
-1. Tampilan _code _mencantumkan nama penerima dan kode bookingnya saja : 
+1. Tampilan _code_ mencantumkan nama penerima dan kode bookingnya saja : 
 
 ![](/assets/print label code - new.png)
 
-* Klik _print _jika sudah selesai.
+* Klik _print_ jika sudah selesai.
 
 * Klik ‘_Download PDF Label_’ untuk mencetak dari format pdf.
 

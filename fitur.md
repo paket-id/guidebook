@@ -6,13 +6,13 @@
 
 3. [Tracking](status-paket.md)
 
-4. [Print Label](print-label.md)
+4. [Cetak Label](cetak-label.md)
 
 5. [Pickup](pickup.md)
 
 9. [Laporan Pengiriman](laporan-pengiriman.md)
 
-10. [Upload Logo](upload-logo.md)
+10. [Logo Kustom](logo-kustom.md)
 
 
 

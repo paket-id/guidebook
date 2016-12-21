@@ -2,6 +2,8 @@
 
 Gantikan label pengiriman dengan kode singkat yang dibuat dari platform Paket ID
 
+![](/assets/booking code new.png)
+
 Beberapa keuntungan dari kode Paket ID
 
 1. Anda tidak perlu lagi menulis label alamat dan lainnya di paket anda, cukup dengan kode ini di paket anda, paket sudah dapat diproses oleh mitra pengiriman kami
@@ -27,15 +29,9 @@ Pembuatan kode pengiriman juga bisa melalui
 1. [API](versi-2.md)
 2. [Excel](excel-upload.md)
 
-Simak gambar dibawah ini untuk memperjelas proses pembuatan kode
+Jika ingin memasukkan detail penerima yang sudah ada, klik ikon _list _\(_address book_\) di sebelah kanan atas input _receiver_
 
-![](/assets/done create booking code.png)
-
-_Dari platform web Paket ID, masukan detil pengirim dan penerima dalam format NAMA&lt;spasi&gt;TELEPON&lt;spasi&gt;ALAMAT_
-
-Jika ingin memasukkan detail penerima yang sudah ada, klik icon list \(address book\) di sebelah kanan atas input receiver
-
-![](/assets/address book button.png)
+![](/assets/example format sender - address book button.png)
 
 Mulailah mengetik nama penerima yang akan dimasukkan di input _receiver_
 

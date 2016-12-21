@@ -32,7 +32,7 @@ _Action _:
 
 * Ikon panah, menampilkan detail kode booking: alamat pengirim, alamat penerima, nomor resi, _tracking link_, berat paket, tarif, dan _tracking_
 
-* Ikon tempat sampah, untuk menghapus kode booking yang masih aktif \(status: _Booked_\)
+* Ikon hapus, untuk menghapus kode booking yang masih aktif \(status: _Booked_\)
 
 ![](/assets/history - real time tracking.png)
 

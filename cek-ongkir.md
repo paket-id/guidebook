@@ -16,7 +16,7 @@ Anda dapat mengecek ongkos kirim di website [paket.id/tariff](/paket.id/tariff) 
 
 **Android app paket.id**
 
-Pilih menu _tariff _dan masukkan daerah asal, tujuan, dan berat paket \(dalam kilogram\) lalu klik ikon panah di kanan atas layar.
+Pilih menu _tariff_ dan masukkan daerah asal, tujuan, dan berat paket \(dalam kilogram\) lalu klik ikon panah di kanan atas layar.
 
 ![](/assets/check tariff multivendor.png)
 

@@ -7,7 +7,7 @@ Anda dapat membuat requst pickup dengan alamat yang sama tanpa harus mengatur ul
 * Masuk ke tab _history pickup_
 * Klik tombol **biru** pada _history pickup_ yang Anda pilih
 * Klik OK pada kotak dialog '_Use this address as new pickup_?'
-* Pada _form _pickup akan otomatis menampilkan alamat dan _extra detail _yang sama dengan alamat yang Anda pilih pada _history_
+* Pada _form_ pickup akan otomatis menampilkan alamat dan _extra detail _yang sama dengan alamat yang Anda pilih pada _history_
 * Pilih kurir dan jenis kendaraannya
 * Klik Pickup
 

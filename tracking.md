@@ -10,15 +10,15 @@ Klik panah kebawah untuk mendapatkan informasi :
 
 * Nama vendor
 
-* Nomor Airwaybill
+* Nomor _Airwaybill_
 
 * Berat \(Kilogram\)
 
 * Tarif
 
-* Tracking link
+* _Tracking link_
 
-* Real time tracking
+* _Real time tracking_
 
 Pada mobile app klik salah satu kode lalu scroll kebawah. _Tracking link_ bisa dibagikan langsung ke aplikasi lain, seperti BBM, Whatsapp, Line, dll dengan cara klik ikon_ Share_ di sebelah kanan atas _Package Detail_.
 

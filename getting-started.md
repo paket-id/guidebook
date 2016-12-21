@@ -4,7 +4,7 @@ Pendaftaran akun paket.id hanya memerlukan alamat _email_ dan _password_.
 
 ![](/assets/sign up form.png)
 
-1. Melalui website paket.id , masuk ke halaman [paket.id](https://paket.id) lalu klik _Sign Up _di bagian atas halaman
+1. Melalui website paket.id , masuk ke halaman [paket.id](https://paket.id) lalu klik _Sign Up_ di bagian atas halaman
 
 2. Melalui aplikasi Android Paket ID. Buka Paket ID _app_ lalu klik _Register_
 
