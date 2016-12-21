@@ -31,7 +31,7 @@ Paket yang sudah di-pickup oleh _driver_ akan ter-update dengan status '_Picked_
 
 * Buka aplikasi Paket ID
 
-* Klik _Request Pickup _dari halaman _Package_
+* Klik _Request Pickup_ dari halaman _Package_
 
 ![](/assets/package list.png)
 
