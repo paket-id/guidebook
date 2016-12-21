@@ -4,7 +4,7 @@ Untuk mendapatkan API Key masuk ke halaman [paket.id/settings/apikeyuser](https:
 
 User email yang digunakan harus sudah diverifikasi terlebih dahulu
 
-Klik Generate
+Klik _Generate_
 
 ![](/assets/settings - generate API.png)
 

@@ -4,11 +4,11 @@ Paket.id merupakan sebuah inovasi pengiriman barang dengan sistem booking dan pi
 
 Fitur - fitur paket.id:
 
-* [Instant booking](kode-booking.md), 5 digit kode pengganti detail pengirim dan penerima. Tidak menyita banyak waktu menulis alamat lengkap di paket.
-* [Real time tracking](tracking.md), dapatkan informasi tracking untuk semua paket dalam satu platform melalui history booking.
+* [Instan booking](kode-booking.md), 5 digit kode pengganti detail pengirim dan penerima. Tidak menyita banyak waktu menulis alamat lengkap di paket.
+* [Tracking](tracking.md), dapatkan informasi tracking untuk semua paket dalam satu platform melalui history booking.
 * [SMS notifikasi](sms-tracking.md), kami mengirim sms tracking link ke penerima secara gratis.
 * Layanan [pickup](pickup.md)
-* [Reporting](laporan-pengiriman.md), dapatkan laporan pengiriman Anda dengan mudah.
+* [Laporan pengiriman](laporan-pengiriman.md), dapatkan laporan pengiriman Anda dengan mudah.
 * [Integrasi dengan API](api.md), manfaatkan API pada website Anda untuk mengatur pengiriman.
 * [Multivendor](tiki.md), gunakan kode booking di vendor pengiriman favorit Anda.
 

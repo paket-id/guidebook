@@ -4,7 +4,7 @@ Untuk mebuat sebuah kode paket anda bisa memakai metode `POST`, dan memakai 2 ti
 
 ##### ENDPOINT `[POST] http://paket.id/apis/v2/booking/`
 
-Dan gunakan request dengan tipe POST dengan nama field berikut
+Dan gunakan request dengan tipe POST dengan nama _field _berikut
 
 | **Nama Field** | **Tipe** | **Diperlukan** | **Deskripsi** |
 | --- | --- | --- | --- |
@@ -24,7 +24,6 @@ Dan gunakan request dengan tipe POST dengan nama field berikut
 ##### CONTOH `[POST] http://paket.id/apis/v2/booking?auth-user-email=test@paket.id&auth-api-key=API_KEY_ANDA`
 
 ```
-
 JSON RESPONSE
 
 {
@@ -46,8 +45,7 @@ JSON RESPONSE
  }
 
 }
-
-
-
 ```
+
+
 

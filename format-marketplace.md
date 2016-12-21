@@ -1,10 +1,10 @@
 ### Format marketplace
 
-Paket ID juga bisa mendeteksi format beberapa marketplace di Indonesia
+Paket ID juga bisa mendeteksi format beberapa _marketplace_ di Indonesia
 
 Untuk saat ini sudah ada 2 marketplace yang dapat digunakan langsung yaitu Bukalapak dan Shopee
 
-Dengan fitur ini, membuat kode menjadi sangat mudah karena tinggal _copy paste_ dari aplikasi marketplace masing masing
+Dengan fitur ini, membuat kode menjadi sangat mudah karena hanya perlu _copy paste_ dari aplikasi _marketplace_ masing masing
 
 **Bukalapak:**
 
@@ -23,8 +23,6 @@ Di aplikasi **Shopee** &gt; lanjut ke halaman Order Details &gt; tekan **COPY** 
 Copy alamat dari website Tokopedia.
 
 ![](/assets/tokopedia detail order_edited.jpg)
-
-
 
 Di Paket ID -&gt; tekan dan tahan di kotak penerima -&gt; pilih “Paste”, setelah data yang tersalin tertulis -&gt; tekan Book untuk langsung mendapatkan ID Paket
 

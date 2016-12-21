@@ -1,13 +1,13 @@
 ## Re-pickup
 
-Anda dapat membuat requst pickup dengan alamat yang sama dengan cara:
+Anda dapat membuat requst pickup dengan alamat yang sama tanpa harus mengatur ulang alamat dengan peta dengan cara:
 
 ### Web
 
-* Masuk ke tab history pickup
-* Klik tombol **biru** pada history pickup yang Anda pilih
-* Klik OK pada alert 'Use this address as new pickup?'
-* Pada form pickup akan otomatis menampilkan alamat dan extra detail yang sama dengan alamat yang Anda pilih pada history
+* Masuk ke tab _history pickup_
+* Klik tombol **biru** pada _history pickup_ yang Anda pilih
+* Klik OK pada kotak dialog '_Use this address as new pickup_?'
+* Pada _form _pickup akan otomatis menampilkan alamat dan _extra detail _yang sama dengan alamat yang Anda pilih pada _history_
 * Pilih kurir dan jenis kendaraannya
 * Klik Pickup
 
@@ -15,12 +15,12 @@ Anda dapat membuat requst pickup dengan alamat yang sama dengan cara:
 
 ### Android
 
-* Masuk ke history pickup
-* Klik menu pilihan \(![](/assets/button-of-three-vertical-squares.png)\) di kanan atas dan pilih 'See detail'
+* Masuk ke _history pickup_
+* Klik menu pilihan \(![](/assets/button-of-three-vertical-squares.png)\) di kanan atas dan pilih '_See detail_'
 
 ![](/assets/pickup history overflow menu.png)
-* Klik 'Pickup from here'
+
+* Klik '_Pickup from here_'
 
 ![](/assets/pickup from here.png)
-
 

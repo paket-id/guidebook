@@ -4,7 +4,7 @@
 
 Paket ID memberikan beberapa opsi tambahan untuk pengguna yang bersifat opsional
 
-* Konten : Isi dari pada paket anda
+* Konten : Isi dari pada paket Anda
 
 ```
 Contoh : coklat Kitkat x2

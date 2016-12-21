@@ -2,7 +2,7 @@
 
 ![](/assets/example format sender.png)
 
-Paket ID secara otomatis dapat mengidentifikasi Nama, Nomor Telepon dan Alamat dari sebuah label pengiriman, asal label tersebut mematuhi format berikut
+Paket ID secara otomatis dapat mengidentifikasi Nama, Nomor Telepon dan Alamat dari sebuah label pengiriman, asalkan label tersebut mematuhi format berikut
 
 1. Urutan label adalah Nama diikuti dengan Nomor Telepon dan diakhiri dengan alamat
 

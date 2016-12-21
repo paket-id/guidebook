@@ -1,26 +1,26 @@
-## Shipment Report
+## Laporan Pengiriman
 
-Anda dapat melihat laporan pengiriman barang selama 30 hari terakhir secara lengkap yang berisi total shipment yang dikirim, total tarif, dan rata-rata paket yang dikirim dalam sehari. Caranya:
+Anda dapat melihat laporan pengiriman barang selama 30 hari terakhir secara lengkap yang berisi total paket yang dikirim, total tarif, dan rata-rata paket yang dikirim dalam sehari. Caranya:
 
 1. Login ke [paket.id](http://paket.id/)
-2. Klik dashboard
+2. Klik _dashboard_
 
-* Tampil report shipment 30 hari terakhir dan tampilan grafik dibawahnya.
+3. Tampil laporan pengiriman 30 hari terakhir dan tampilan grafik dibawahnya.
 
-![](/assets/dashboard new.png)
-Grafik dapat didownload dengan format .pdf, .png, .jpeg, dan .svg 
+![](/assets/dashboard new.png)  
+Grafik dapat di-_download_ dengan format .pdf, .png, .jpeg, dan .svg
 
 ![](/assets/download graph report.png)
 
-Atau masuk ke halaman Report. 
+Atau masuk ke halaman _Report_.
 
 ![](/assets/print report new.png)
 
-Atur range tanggal report yang ingin dilihat, klik Apply, kemudian klik View. 
+Atur jarak tanggal laporan yang ingin dilihat, klik _Apply_, kemudian klik _View_.
 
 ![](/assets/print report html.png)
 
-Klik ‘Pdf’ jika laporan data booking ingin didownload dalam format .pdf. 
+Klik ‘Pdf’ jika laporan data booking ingin di-_download _dalam format .pdf.
 
 ![](/assets/print report download pdf.png)
 

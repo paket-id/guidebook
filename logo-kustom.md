@@ -1,4 +1,4 @@
-## Upload Logo
+## Logo Kustom
 
 Gunakan logo brand-mu pada label kode booking dengan cara :
 

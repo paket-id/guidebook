@@ -1,6 +1,6 @@
 ## Baca Kode Paket
 
-Untuk membaca info dari sebuah kode paket anda bisa memakai node
+Untuk membaca info dari sebuah kode paket anda bisa memakai _node_
 
 ##### ENDPOINT `[GET] http://paket.id/apis/v2/booking/{kode}`
 
@@ -12,8 +12,7 @@ Bila tidak bisa mendapatkan info dari kode paket, cek beberapa hal ini
 
 * Kode paket benar
 
-* Kode paket masih dalam keadaan aktif dan belum di delete atau sudah expirasi
-
+* Kode paket masih dalam keadaan aktif dan belum dihapus atau sudah kadaluarsa
 
 Bila masih tidak bisa mendapatkan info untuk kode paket anda, silahkan kirim email ke cs@paket.id
 
@@ -180,4 +179,6 @@ Bila masih tidak bisa mendapatkan info untuk kode paket anda, silahkan kirim ema
 
 }
 ```
+
+
 
