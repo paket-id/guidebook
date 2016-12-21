@@ -11,6 +11,7 @@ Sebelum melakukan request pickup, pastikan sudah memiliki kode booking. Jika And
 * Buka halaman [pickup](https://paket.id/pickup)
 
 * Cari lokasi pickup pada input ‘Search place’ lalu klik pada map untuk menunjukkan lokasi yang lebih akurat
+
 * Masukkan keterangan tambahan pada input ‘Extra detail’, misalnya patokan rumah
 * Pilih jenis kendaraannya, bisa mobil atau motor
 * Pilih kurir yang akan menjemput: Tiki, SML Express, atau JNE
@@ -49,8 +50,6 @@ Paket yang sudah di-pickup oleh driver akan ter-update dengan status 'Picked', t
 1. Tunggu beberapa saat
 
    Jika ada driver yang available untuk menjemput paket, Anda akan menerima notifikasi bahwa driver ‘is on the way’. Informasi driver seperti nama dan nomor plat kendaraan tertera dan bisa langsung klik icon ‘call’ atau ‘message’ untuk menghubungi driver yang akan pickup.
-
-2. Anda dapat membayar jumlah ongkos kirim secara tunai kepada driver atau transfer ke rekening vendor logistik
 
 
 

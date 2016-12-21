@@ -20,8 +20,8 @@
     * [Print Label](print-label.md)
     * [Cek Ongkir](cek-ongkir.md)
     * [Pickup](pickup.md)
-        * Re-pickup
-        * Status Pickup
+        * [Re-pickup](re-pickup.md)
+        * [Status Pickup](status-pickup.md)
     * [SMS Tracking](sms-tracking.md)
     * [Laporan Pengiriman](laporan-pengiriman.md)
 * [API](api.md)
