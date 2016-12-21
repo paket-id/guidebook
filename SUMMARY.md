@@ -11,7 +11,8 @@
     * [Input Opsional](input-opsional.md)
 * [Fitur](fitur.md)
     * [Kode Booking](kode-booking.md)
-    * [Estimasi Tarif](estimasi-tarif.md)
+        * [Validasi Alamat](validasi-alamat.md)
+        * [Estimasi Tarif](estimasi-tarif.md)
     * [Excel Upload](excel-upload.md)
     * [Cek Ongkir](cek-ongkir.md)
     * [History Booking](history-booking.md)
@@ -22,9 +23,7 @@
     * [Real Time Tracking](real-time-tracking.md)
     * [SMS Tracking](sms-tracking.md)
     * [Shipment Report](shipment-report.md)
-    * [Logo Kustom](logo-kustom.md)
-        * [Tracking Brand](tracking-brand.md)
-    * [Validasi Kodepos](validasi-kodepos.md)
+    
 * [API](api.md)
     * [Versi 2](versi-2.md)
         * Baca Kode Paket
