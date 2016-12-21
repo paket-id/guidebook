@@ -1,21 +1,23 @@
 ## Excel Upload
 
-Gunakan fitur “Excel Book” untuk mendapatkan kode booking pengiriman dalam jumlah besar.
+Gunakan fitur “_Excel Book_” untuk mendapatkan kode booking pengiriman dalam jumlah besar.
 
 Cara penggunaan :
 
 1. Login ke [paket.id](https://paket.id/)
 2. Pilih menu ‘Book’ lalu klik tab ‘Excel’.
-3. Download “template” sebagai panduan pengisian.
-4. Upload ke bagian “Drop files here to upload”.
+3. _Download_ “_template_” sebagai panduan pengisian.
+4. _Upload_ ke area “_Drop files here to upload_”.
 
 ![](/assets/upload excel.png)
 
-Template contoh \(dalam contoh ini menggunakan data yang sama sebanyak 9 alamat, data ini dapat diisi sesuai kebutuhan\) :
+Template contoh \(dalam contoh ini menggunakan data yang sama sebanyak 9 alamat, data ini dapat diisi sesuai kebutuhan\).
+
+Tidak disarankan mengubah atau menghilangkan _header_ yang sudah ada. Mulailah mengisi data pada baris ke-dua.
 
 ![](/assets/contoh_excel view.png)
 
-Setelah upload, cek pada tab ‘History’. Kode booking akan tercantum secara otomatis.
+Setelah _upload_, cek pada tab ‘_History_’. Kode booking akan tercantum secara otomatis.
 
 ![](/assets/booking code from excel book.png)
 

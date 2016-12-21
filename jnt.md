@@ -30,7 +30,6 @@ Berikut adalah Syarat dan Ketentuan dari J&T \(Jet Express\)
 
 13. Goods that are prohibited to be imported from certain countries.
 
-
 ** Commitment ** :
 
 1. Service Ethic
@@ -51,7 +50,6 @@ Politeness, good service, high work ethic, the totaty of honesty, professionalis
 
 7. Scope of Coverage Area
 
-
 The complete data of the city and area that coverage by J&T Express indicated on site www.jet.co.id.
 
 1. The Time Efficiency of Delivery and Pickup Goods
@@ -69,5 +67,6 @@ The complete data of the city and area that coverage by J&T Express indicated on
 7. Shipment tracking can be check through www.jet.co.id.
 
 8. Call Center 0800-100-1188 \(24 Hours Online\)
+
 
 
