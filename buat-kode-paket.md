@@ -4,7 +4,7 @@ Untuk mebuat sebuah kode paket anda bisa memakai metode `POST`, dan memakai 2 ti
 
 ##### ENDPOINT `[POST] http://paket.id/apis/v2/booking/`
 
-Dan gunakan request dengan tipe POST dengan nama _field _berikut
+Dan gunakan request dengan tipe POST dengan nama _field_ berikut
 
 | **Nama Field** | **Tipe** | **Diperlukan** | **Deskripsi** |
 | --- | --- | --- | --- |

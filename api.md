@@ -1,6 +1,6 @@
 ## API
 
-API digunakan untuk membaca dan menulis data pada _server _paket.id tanpa perlu memakai platform yang tersedia
+API digunakan untuk membaca dan menulis data pada _server_ paket.id tanpa perlu memakai platform yang tersedia
 
 API sangat berguna untuk mengembangkan atau menambah fitur pada aplikasi anda sendiri
 
