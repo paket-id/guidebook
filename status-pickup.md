@@ -4,7 +4,7 @@ Anda dapat memantau status pickup dari tab _history_
 
 ![](/assets/pickup history.png)
 
-atau melalui aplikasi android, klik ikon _history _pada halaman pickup
+atau melalui aplikasi android, klik ikon _history_ pada halaman pickup
 
 ![](/assets/pickup history icon.png)
 

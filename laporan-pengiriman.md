@@ -20,7 +20,7 @@ Atur jarak tanggal laporan yang ingin dilihat, klik _Apply_, kemudian klik _View
 
 ![](/assets/print report html.png)
 
-Klik ‘Pdf’ jika laporan data booking ingin di-_download _dalam format .pdf.
+Klik ‘Pdf’ jika laporan data booking ingin di-_download_ dalam format .pdf.
 
 ![](/assets/print report download pdf.png)
 
