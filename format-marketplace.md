@@ -10,23 +10,23 @@ Dengan fitur ini, membuat kode menjadi sangat mudah karena tinggal _copy paste_ 
 
 Dari aplikasi Bukalapak -&gt; lanjut ke halaman Detil Transaksi -&gt; pilih tab “ALAMAT” -&gt; tekan dan tahan alamat tersebut -&gt; pilih “Salin”
 
+![](/assets/bl1.png)
+
 **Shopee:**
 
 Di aplikasi **Shopee** &gt; lanjut ke halaman Order Details &gt; tekan **COPY** bagian “**Delivery Address**”.
+
+![](/assets/shp1.png)
 
 **Tokopedia**:
 
 Copy alamat dari website Tokopedia.
 
-Di Paket ID -&gt; tekan dan tahan di kotak penerima -&gt; pilih “Paste”, setelah data yang tersalin tertulis -&gt; tekan Book untuk langsung mendapatkan ID Paket
-
-_Menyalin dari aplikasi marketplace_
-
-![](/assets/bl1.png)
-
-![](/assets/shp1.png)
-
 ![](/assets/tokopedia detail order_edited.jpg)
+
+
+
+Di Paket ID -&gt; tekan dan tahan di kotak penerima -&gt; pilih “Paste”, setelah data yang tersalin tertulis -&gt; tekan Book untuk langsung mendapatkan ID Paket
 
 _Gambar Salinan di Paket ID_
 

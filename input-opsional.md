@@ -1,5 +1,7 @@
 ## Input Opsional
 
+![](/assets/info optional.png)
+
 Paket ID memberikan beberapa opsi tambahan untuk pengguna yang bersifat opsional
 
 * Konten : Isi dari pada paket anda
@@ -8,10 +10,10 @@ Paket ID memberikan beberapa opsi tambahan untuk pengguna yang bersifat opsional
 Contoh : coklat Kitkat x2
 ```
 
-* Catatan : bersifat pribadi dan hanya bisa dilihat oleh anda seorang, bisa dipakai untuk nomor invoice paket atau data lainnya
+* Catatan : servis pengiriman yang akan ditujukan kepada petugas konter logistik. Jika kosong, maka pengiriman diasumsikan menggunakan servis reguler atau normal
 
 ```
-Contoh : Invoice No 121212, Sudah Dibayar setengah
+Contoh : JNE/YES Packing kayu
 ```
 
 

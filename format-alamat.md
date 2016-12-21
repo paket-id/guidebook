@@ -1,5 +1,7 @@
 ## Format Alamat
 
+![](/assets/example format sender.png)
+
 Paket ID secara otomatis dapat mengidentifikasi Nama, Nomor Telepon dan Alamat dari sebuah label pengiriman, asal label tersebut mematuhi format berikut
 
 1. Urutan label adalah Nama diikuti dengan Nomor Telepon dan diakhiri dengan alamat
@@ -48,11 +50,7 @@ Andi Wijaya #111222 0891 2212 1229 Jln Duku Atas no 21, Jakarta 11221
 Andi Wijaya 089122121229 Jln Duku Atas No 21, Jakarta 11221
 ```
 
-Klik link "Example" pada website paket.id
-
-![](/assets/example format button.png)
-
-Akan muncul pop-up dialog seperti ini:
+Contoh Format Alamat :
 
 ### ![](/assets/example format.png)
 
