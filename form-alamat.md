@@ -1,4 +1,4 @@
-## Format input label
+## Format Alamat
 
 Paket ID secara otomatis dapat mengidentifikasi Nama, Nomor Telepon dan Alamat dari sebuah label pengiriman, asal label tersebut mematuhi format berikut
 
@@ -11,7 +11,6 @@ Paket ID secara otomatis dapat mengidentifikasi Nama, Nomor Telepon dan Alamat d
 4. Alamat tidak bisa terlalu pendek atau tidak memiliki nomor
 
 5. Jika di dalam alamat mempunyai kodepos, akan terdeteksi secara otomatis
-
 
 Dianjurkan untuk mempunyai kodepos di alamat untuk memudahkan petugas konter memvalidasi wilayah dan tariff pengiriman
 
@@ -38,7 +37,6 @@ Jika ingin memakai nomor di nama ada 2 cara
 1. Nomor disambung dengan nama, contoh Doni-111222
 
 2. Nomor disambung dengan karakter lain seperti \#, contoh : Doni \#111222
-
 
 _Contoh_
 
