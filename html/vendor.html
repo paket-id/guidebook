@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>SMS Tracking · Paket ID Guidebook</title>
+        <title>Vendor · Paket ID Guidebook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.2">
@@ -61,10 +61,10 @@
     <link rel="shortcut icon" href="gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="laporan-pengiriman.html" />
+    <link rel="next" href="pengaturan.html" />
     
     
-    <link rel="prev" href="status-pickup.html" />
+    <link rel="prev" href="tarif.html" />
     
 
     </head>
@@ -438,7 +438,7 @@
             
         </li>
     
-        <li class="chapter active" data-level="1.5.7" data-path="sms-tracking.html">
+        <li class="chapter " data-level="1.5.7" data-path="sms-tracking.html">
             
                 <a href="sms-tracking.html">
             
@@ -568,7 +568,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.6.1.4" data-path="vendor.html">
+        <li class="chapter active" data-level="1.6.1.4" data-path="vendor.html">
             
                 <a href="vendor.html">
             
@@ -705,7 +705,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href="." >SMS Tracking</a>
+        <a href="." >Vendor</a>
     </h1>
 </div>
 
@@ -720,24 +720,25 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h2 id="sms-tracking">SMS Tracking</h2>
-<p>Ketika barang Anda telah dikirim, kami akan mengirimkan SMS berisi tautan <em>tracking</em> paket Anda kepada penerima barang.</p>
-<p><img src="assets/Screenshot_2016-12-07-16-29-25-1.png" alt=""></p>
-<p>Format tautan <em>tracking</em> : <strong>paket.id/is/KODE</strong> berisi informasi barang seperti</p>
-<ul>
-<li>Vendor logistik yang digunakan</li>
-<li>Nomor resi (<em>airwaybill</em>)</li>
-<li>Nama pengirim dan penerima</li>
-<li>Informasi bantuan (<em>customer support</em>) Vendor Logistik</li>
-<li>Informasi <em>tracking</em> dan posisi barang</li>
-<li><em>Branding</em> dan <em>tagline</em> toko Anda.</li>
-</ul>
-<p>Contoh tautan tracking : <a href="http://paket.id/is/wdtua" target="_blank"><strong>paket.id/is/wdtua</strong></a></p>
-<p><img src="assets/tracking.png" alt=""></p>
-<p>JIka terjadi keterlambatan atau kendala dalam pengiriman barang, Anda dapat langsung menghubungi vendor logistik terkait.</p>
-<p>Manfaatkan <em>tracking brand</em> sebagai alat <em>remarketing</em> dimana pembeli barang di toko online anda disuguhkan tautanuntuk kembali ke toko online anda.</p>
-<p>Pelajari tentang <em>tracking brand</em> dan manfaatnya di <a href="tracking-brand.html">sini</a>.</p>
+                                <h2 id="vendor">Vendor</h2>
+<p>API Vendor diapakai untuk melihat daftar para vendor yang telah memakai Paket ID</p>
+<h5 id="endpoint-postget-httppaketidapisv2vendor">ENDPOINT <code>[POST/GET] http://paket.id/apis/v2/vendor</code></h5>
+<h5 id="contoh-getpost-httppaketidapisv2vendorauth-user-emailtestpaketidauth-api-keyapikeyanda">CONTOH <code>[GET/POST] http://paket.id/apis/v2/vendor?auth-user-email=test@paket.id&amp;auth-api-key=API_KEY_ANDA</code></h5>
+<pre><code>
+JSON RESPONSE
 
+{
+
+ &quot;success&quot;: 1,
+
+ &quot;vendor&quot;: [
+
+ &quot;tiki&quot;
+
+ ]
+
+}
+</code></pre>
                                 
                                 </section>
                             
@@ -764,12 +765,12 @@
 
             
                 
-                <a href="status-pickup.html" class="navigation navigation-prev " aria-label="Previous page: Status Pickup">
+                <a href="tarif.html" class="navigation navigation-prev " aria-label="Previous page: Tarif">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
                 
-                <a href="laporan-pengiriman.html" class="navigation navigation-next " aria-label="Next page: Laporan Pengiriman">
+                <a href="pengaturan.html" class="navigation navigation-next " aria-label="Next page: Pengaturan">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -780,7 +781,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"SMS Tracking","level":"1.5.7","depth":2,"next":{"title":"Laporan Pengiriman","level":"1.5.8","depth":2,"path":"laporan-pengiriman.md","ref":"laporan-pengiriman.md","articles":[]},"previous":{"title":"Status Pickup","level":"1.5.6.2","depth":3,"path":"status-pickup.md","ref":"status-pickup.md","articles":[]},"dir":"ltr"},"config":{"plugins":["search","fontsettings","highlight","lunr","comment","theme-default"],"styles":{"website":"styles/website.css","ebook":"styles/ebook.css","pdf":"styles/pdf.css","mobi":"styles/mobi.css","epub":"styles/epub.css"},"pluginsConfig":{"theme-api":{"split":true},"fontsettings":{"theme":"white","family":"sans","size":2},"search":{},"highlight":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"comment":{"highlightCommented":true},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","author":"Author","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Paket ID Guidebook","links":{"sidebar":{"Kembali ke paket.id":"https://paket.id"}},"gitbook":"*"},"file":{"path":"sms-tracking.md","mtime":"2016-12-21T08:13:07.106Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2016-12-21T08:24:53.776Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Vendor","level":"1.6.1.4","depth":3,"next":{"title":"Pengaturan","level":"1.7","depth":1,"path":"pengaturan.md","ref":"pengaturan.md","articles":[{"title":"Ganti Password","level":"1.7.1","depth":2,"path":"ganti-password.md","ref":"ganti-password.md","articles":[]},{"title":"Kustomisasi","level":"1.7.2","depth":2,"path":"kustomisasi.md","ref":"kustomisasi.md","articles":[]},{"title":"Membuat API Key","level":"1.7.3","depth":2,"path":"membuat-api-key.md","ref":"membuat-api-key.md","articles":[]},{"title":"Profil","level":"1.7.4","depth":2,"path":"profil.md","ref":"profil.md","articles":[]}]},"previous":{"title":"Tarif","level":"1.6.1.3","depth":3,"path":"tarif.md","ref":"tarif.md","articles":[]},"dir":"ltr"},"config":{"plugins":["search","fontsettings","highlight","lunr","comment","theme-default"],"styles":{"website":"styles/website.css","ebook":"styles/ebook.css","pdf":"styles/pdf.css","mobi":"styles/mobi.css","epub":"styles/epub.css"},"pluginsConfig":{"theme-api":{"split":true},"fontsettings":{"theme":"white","family":"sans","size":2},"search":{},"highlight":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"comment":{"highlightCommented":true},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","author":"Author","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Paket ID Guidebook","links":{"sidebar":{"Kembali ke paket.id":"https://paket.id"}},"gitbook":"*"},"file":{"path":"vendor.md","mtime":"2016-12-21T04:09:46.914Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2016-12-21T08:24:53.776Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>
