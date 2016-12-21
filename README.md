@@ -10,7 +10,7 @@ Fitur - fitur paket.id:
 * Layanan [pickup](pickup.md)
 * [Reporting](laporan-pengiriman.md), dapatkan laporan pengiriman Anda dengan mudah.
 * [Integrasi dengan API](api.md), manfaatkan API pada website Anda untuk mengatur pengiriman.
-* [Multivendor](syarat-dan-ketentuan.md), gunakan kode booking di vendor pengiriman favorit Anda.
+* [Multivendor](tiki.md), gunakan kode booking di vendor pengiriman favorit Anda.
 
 ---
 
