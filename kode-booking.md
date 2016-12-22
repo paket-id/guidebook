@@ -6,9 +6,9 @@ Gantikan label pengiriman dengan kode singkat yang dibuat dari platform Paket ID
 
 Beberapa keuntungan dari kode Paket ID
 
-1. Anda tidak perlu lagi menulis label alamat dan lainnya di paket anda, cukup dengan kode ini di paket anda, paket sudah dapat diproses oleh mitra pengiriman kami
+1. Anda tidak perlu lagi menulis label alamat dan lainnya di paket Anda, cukup dengan kode ini di paket Anda, paket sudah dapat diproses oleh mitra pengiriman kami
 2. Dengan kode ini juga, paket akan diproses jauh lebih cepat oleh mitra pengiriman karena tidak ada penginputan data secara manual di konter pengiriman
-3. _Tracking_ barang akan diotomatiskan oleh sistem, anda dapat melihat status barang dari platform web maupun dari aplikasi _mobile_
+3. _Tracking_ barang akan diotomatiskan oleh sistem, Anda dapat melihat status barang dari platform web maupun dari aplikasi _mobile_
 4. Penerima barang juga akan mendapatkan SMS berisi _tracking link_ dan informasi paket lainnya
 
 Caranya pembuatan kode :
@@ -16,13 +16,13 @@ Caranya pembuatan kode :
 1. Buka situs paket.id atau aplikasi Paket ID \(_download_ di [paket.id/apps](https://paket.id/apps)\)
 2. Login ke platform Paket ID atau registrasi jika belum mempunyai login
 3. Ke menu _booking_
-4. Masukan detil pengirim dengan informasi anda
+4. Masukan detil pengirim dengan informasi Anda
 5. Pastikan detil pengirim mempunyai format\* : **NAMA&lt;spasi&gt;TELEPON&lt;spasi&gt;ALAMAT**
 6. Contoh : Dani 081112222 Jln Elang Raya no 12, Jakarta 11220
 7. Lakukan hal yang sama untuk detil penerima
-8. Teken tombol BOOK di situs atau tombol dengan ikon panah di aplikasi
+8. Tekan tombol BOOK di situs atau tombol dengan ikon panah di aplikasi
 9. Dapatkan kode Paket singkat 5 huruf seperti : ABCDE
-10. Tulis kode ini di paket anda
+10. Tulis kode ini di paket Anda
 
 Pembuatan kode pengiriman juga bisa melalui
 
