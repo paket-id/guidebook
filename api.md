@@ -2,7 +2,7 @@
 
 API digunakan untuk membaca dan menulis data pada _server_ paket.id tanpa perlu memakai platform yang tersedia
 
-API sangat berguna untuk mengembangkan atau menambah fitur pada aplikasi anda sendiri
+API sangat berguna untuk mengembangkan atau menambah fitur pada aplikasi Anda sendiri
 
 API tidak boleh digunakan untuk membuat aplikasi yang secara fungsi sama dengan aplikasi paket.id
 
