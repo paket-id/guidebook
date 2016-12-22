@@ -1,6 +1,6 @@
 ## Tracking Brand
 
-Anda bisa menampilkan brand toko Anda pada halaman_ tracking_ resi dengan cara :
+Anda bisa menampilkan _brand_ toko Anda pada halaman_ tracking_ resi dengan cara :
 
 1. Login ke [paket.id](https://paket.id/)
 2. Pada menu ‘_Settings_’, pilih tab ‘_Customization_’ lalu klik ‘_Tracking brand_’.
