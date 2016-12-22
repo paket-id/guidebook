@@ -7,10 +7,10 @@ Anda dapat melihat laporan pengiriman barang selama 30 hari terakhir secara leng
 
 3. Tampil laporan pengiriman 30 hari terakhir dan tampilan grafik dibawahnya.
 
-![](/assets/dashboard new.png)  
+![](/assets/dashboard.png)  
 Grafik dapat di-_download_ dengan format .pdf, .png, .jpeg, dan .svg
 
-![](/assets/download graph report.png)
+![](/assets/download graph.png)
 
 Atau masuk ke halaman _Report_.
 
