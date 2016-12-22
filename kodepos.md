@@ -1,6 +1,6 @@
 ## Kodepos
 
-Jika Anda ingin menambahkan kodepos pada detail alamat, Anda dapat mengeceknya di halaman _postcode _pada aplikasi android.
+Jika Anda ingin menambahkan kodepos pada detail alamat, Anda dapat mengeceknya di halaman _postcode_ pada aplikasi android.
 
 * Buka Paket ID app lalu pilih _Postcode_
 * Masukkan nama lokasi
