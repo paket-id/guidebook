@@ -18,7 +18,7 @@ Keterangan status:
 
 * _Picked _: Paket dengan kode booking yang sudah di-pickup oleh _driver_
 
-* _Delivered _: Paket dengan kode booking yang sudah diterima oleh si penerima paket
+* _Delivered _: Paket dengan kode booking yang sudah diterima oleh penerima paket
 
 * _Expired _: Kode booking yang sudah kadaluarsa \(lebih dari satu bulan\)
 
