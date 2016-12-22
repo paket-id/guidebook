@@ -12,19 +12,19 @@ Tidak bisa. Satu kode booking hanya bisa untuk satu kali pengiriman, karena sist
 
 > Saya sudah meng-upload excel yang berisi detail alamat pengirim dan penerima. Bagaimana saya mengetahui kode booking-nya?
 
-Setelah Anda meng-upload excel, Anda dapat mengecek ke history booking. Download terlebih dahulu template excel yang tersedia sebagai pedoman pengisian alamat.
+Setelah Anda meng-upload excel, Anda dapat mengecek ke _history booking_. _Download_ terlebih dahulu template excel yang tersedia sebagai pedoman pengisian alamat.
 
 > Bagaimana cara penggunaan API?
 
-API bisa langsung digunakan untuk membuat kode, biasanya digunakan online shop yang mempunyai website.
+API bisa langsung digunakan untuk membuat kode, biasanya digunakan _online shop_ yang mempunyai website.
 
 > Status kode booking belum ter-update setelah saya mengirim dengan kode booking ke vendor
 
-Tunggu beberapa saat dan muat ulang halaman history di website paket.id atau refresh halaman package pada aplikasi mobile. Jika status belum ter-update dalam 24 jam, maka Anda dapat menghubungi customer support kami di 087808783630 atau email ke cs@paket.id
+Tunggu beberapa saat dan muat ulang halaman _history_ di website paket.id atau _refresh_ halaman package pada aplikasi _mobile_. Jika status belum ter-_update_ dalam 24 jam, maka Anda dapat menghubungi _customer support_ kami di 087808783630 atau _email_ ke cs@paket.id
 
 > Bagaimana saya bisa menentukan bahwa saya ingin menggunakan jenis pengiriman tertentu yang disediakan oleh vendor logistik?
 
-Anda dapat mencantumkan apakah itu pengiriman reguler atau jenis lainnya pada input Note.
+Anda dapat mencantumkan apakah itu pengiriman reguler atau jenis lainnya pada input _Note_.
 
 > Vendor mana saja yang bisa menerima kiriman dengan kode booking paket.id?
 
@@ -32,7 +32,7 @@ Saat ini, kode booking paket.id dapat diproses di 78 cabang Tiki. Selengkapnya c
 
 > Paket yang saya kirimkan mengalami kendala dan belum diterima oleh penerima melebihi waktu yang diperkirakan, apa yang harus saya lakukan?
 
-Terkait keterlambatan pengiriman, Anda dapat menghubungi langsung customer service dari vendor logistik yang bersangkutan. Informasi tersebut dapat dilihat di halaman tracking, seperti nama vendor, email, dan nomor telepon customer service yang dapat dihubungi.
+Terkait keterlambatan pengiriman, Anda dapat menghubungi langsung _customer service_ dari vendor logistik yang bersangkutan. Informasi tersebut dapat dilihat di halaman tracking, seperti nama vendor, _email_, dan nomor telepon _customer service_ yang dapat dihubungi.
 
 > Layanan PO BOX. Dapatkah saya membuat beberapa daftar alamat penerima, sehingga pengirim atau siapapun cukup menuliskan kode penerima tersebut?
 
@@ -44,33 +44,33 @@ Saat ini kami belum ada fitur PO BOX.
 
 > Saya sudah melakukan request pickup, lalu apa yang harus saya lakukan?
 
-Jika ada kurir yang tersedia di lokasi sekitar dan dapat menjemput barang Anda, Anda akan menerima notifikasi bahwa kurir sedang dalam perjalanan ke lokasi pickup yang telah Anda tentukan. Jika Anda tidak menerima notifikasi apapun atau request Anda dibatalkan oleh sistem, maka Anda dapat membuat request pickup kembali beberapa saat lagi.
+Jika ada kurir yang tersedia di lokasi sekitar dan dapat menjemput barang Anda, Anda akan menerima notifikasi bahwa kurir sedang dalam perjalanan ke lokasi pickup yang telah Anda tentukan. Jika Anda tidak menerima notifikasi apapun atau _request_ Anda dibatalkan oleh sistem, maka Anda dapat membuat _request_ _pickup_ kembali beberapa saat lagi.
 
 > Bagaimana cara saya mengetahui tarif pengiriman dan proses pembayarannya jika saya menggunakan fitur pickup?
 
-Kurir yang menjemput ke lokasi Anda akan menghitung semua paket yang akan dikirim dan Anda dapat membayar ongkos kirim kepada kurir tersebut. Anda akan menerima nota pickup dan dapat mengecek status pengiriman via website atau aplikasi mobile ketika kurir sudah memproses paket Anda di konter pengiriman.
+Kurir yang menjemput ke lokasi Anda akan menghitung semua paket yang akan dikirim dan Anda dapat membayar ongkos kirim kepada kurir tersebut. Anda akan menerima nota pickup dan dapat mengecek status pengiriman via website atau aplikasi _mobile_ ketika kurir sudah memproses paket Anda di konter pengiriman.
 
 > Jam berapa batas waktu jika saya ingin melakukan request pickup?
 
-Dikarenakan tidak semua vendor beroperasi selama 24 jam, sebaiknya request pickup dilakukan sebelum jam 5 sore.
+Dikarenakan tidak semua vendor beroperasi selama 24 jam, sebaiknya _request pickup_ dilakukan sebelum jam 5 sore.
 
 > Apakah ada jumlah minimum paket jika ingin melakukan request pickup?
 
 Saat ini tidak ada jumlah minimum paket dan tidak dikenakan biaya pickup. Anda hanya perlu membayar ongkos kirim paketnya saja.
 
-> Bagaimana prosedurnya jika saya berminat menjadi driver pickup paket.id?
+> Bagaimana prosedurnya jika saya berminat menjadi _driver pickup_ paket.id?
 
-Saat ini, paket.id driver hanyalah driver atau kurir langsung dari partner logistik kami.
+Saat ini, paket.id _driver_ hanyalah driver atau kurir langsung dari partner logistik kami.
 
 ---
 
 ### Cashback 10%
 
-> Berapa lama promo cashback 10% ini berlangsung?
+> Berapa lama promo _cashback_ 10% ini berlangsung?
 
-Masa berlaku promo cashback 10% yaitu satu bulan sejak akun Anda terdaftar promo ini
+Masa berlaku promo _cashback_ 10% yaitu satu bulan sejak akun Anda terdaftar promo ini
 
-> Apa saja syarat untuk mendaftar promo cashback 10% ?
+> Apa saja syarat untuk mendaftar promo _cashback_ 10% ?
 
 Syaratnya adalah akun paket.id Anda belum pernah terdaftar dipromo ini sebelumnya
 
