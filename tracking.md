@@ -2,7 +2,7 @@
 
 Dapatkan informasi_ tracking_ semua paket dalam satu platform dengan cara cek halaman [history ](https://paket.id/book/history)untuk mengetahui status terakhir dan posisi paket yang Anda kirimkan.
 
-![](/assets/history - real time tracking.png)
+![](/assets/real time tracking - web.png)
 
 Klik panah kebawah untuk mendapatkan informasi :
 
