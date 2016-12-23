@@ -20,7 +20,7 @@ Bagaimana cara penggunaan API?
 
 Status kode booking belum ter-update setelah saya mengirim dengan kode booking ke vendor
 
-> Tunggu beberapa saat dan muat ulang halaman _history_ di website paket.id atau _refresh_ halaman package pada aplikasi _mobile_. Jika status belum ter-_update_ dalam 24 jam, maka Anda dapat menghubungi _customer support_ kami di 087808783630 atau _email_ ke cs@paket.id
+> Tunggu beberapa saat dan muat ulang halaman _history_ di website paket.id atau _refresh_ halaman _package_ pada aplikasi _mobile_. Jika status belum ter-_update_ dalam 24 jam, maka Anda dapat menghubungi _customer support_ kami di 087808783630 atau _email_ ke cs@paket.id
 
 Bagaimana saya bisa menentukan bahwa saya ingin menggunakan jenis pengiriman tertentu yang disediakan oleh vendor logistik?
 
@@ -28,7 +28,7 @@ Bagaimana saya bisa menentukan bahwa saya ingin menggunakan jenis pengiriman ter
 
 Vendor mana saja yang bisa menerima kiriman dengan kode booking paket.id?
 
-> Saat ini, kode booking paket.id dapat diproses di 78 cabang Tiki. Selengkapnya cek [paket.id/location. ](/paket.id/location)Jika Anda tidak ingin repot mengantar ke vendor, dapat menggunakan fitur pickup via [website](web.md) atau [android app](android.md).
+> Saat ini, kode booking paket.id dapat diproses di Tiki, JNE, dan SML Express. Selengkapnya cek [paket.id/location. ](/paket.id/location)Jika Anda tidak ingin repot mengantar ke vendor, dapat menggunakan fitur [pickup](pickup.md) via website atau _mobile app_.
 
 Paket yang saya kirimkan mengalami kendala dan belum diterima oleh penerima melebihi waktu yang diperkirakan, apa yang harus saya lakukan?
 
@@ -56,7 +56,7 @@ Jam berapa batas waktu jika saya ingin melakukan request pickup?
 
 Apakah ada jumlah minimum paket jika ingin melakukan request pickup?
 
-> Saat ini tidak ada jumlah minimum paket dan tidak dikenakan biaya pickup. Anda hanya perlu membayar ongkos kirim paketnya saja.
+> Setiap vendor memiliki ketentuan pickupnya masing-masing, selengkapnya cek halaman [paket.id/pickup](https://paket.id/pickup).
 
 Bagaimana prosedurnya jika saya berminat menjadi _driver pickup_ paket.id?
 
