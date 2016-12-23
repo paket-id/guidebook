@@ -1,6 +1,6 @@
 ## Re-pickup
 
-Anda dapat membuat requst pickup dengan alamat yang sama tanpa harus mengatur ulang alamat dengan peta dengan cara:
+Anda dapat membuat request pickup dengan alamat yang sama tanpa harus mengatur ulang alamat dengan peta dengan cara:
 
 ### Web
 

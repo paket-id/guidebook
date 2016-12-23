@@ -18,7 +18,7 @@ Keterangan status:
 
 * _Picked _: Paket dengan kode booking yang sudah di-pickup oleh _driver_
 
-* _Delivered _: Paket dengan kode booking yang sudah diterima oleh si penerima paket
+* _Delivered _: Paket dengan kode booking yang sudah diterima oleh penerima paket
 
 * _Expired _: Kode booking yang sudah kadaluarsa \(lebih dari satu bulan\)
 
@@ -34,9 +34,7 @@ _Action _:
 
 * Ikon hapus, untuk menghapus kode booking yang masih aktif \(status: _Booked_\)
 
-![](/assets/history - real time tracking.png)
-
-
+![](/assets/real time tracking - web.png)
 
 **Android**
 
@@ -53,6 +51,4 @@ Status kode booking yang ditampilkan pada aplikasi android:
 * _Returned_
 
 ![](/assets/filter package.png)
-
-
 

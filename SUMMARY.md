@@ -38,5 +38,6 @@
     * [Kustomisasi](kustomisasi.md)
     * [Membuat API Key](membuat-api-key.md)
     * [Profil](profil.md)
+* [Lokasi Vendor](lokasi-vendor.md)
 * [FAQ](faq.md)
 

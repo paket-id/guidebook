@@ -1,12 +1,12 @@
 ## Baca Kode Paket
 
-Untuk membaca info dari sebuah kode paket anda bisa memakai _node_
+Untuk membaca info dari sebuah kode paket Anda bisa memakai _node_
 
 ##### ENDPOINT `[GET] http://paket.id/apis/v2/booking/{kode}`
 
 Bila tidak bisa mendapatkan info dari kode paket, cek beberapa hal ini
 
-* Kunci Api anda valid
+* Kunci Api Anda valid
 
 * Anda mempunyai akses untuk kode paket tersebut \(sebagai jasa kurir atau pemilik kode paket\)
 

@@ -4,7 +4,7 @@ Paket ID juga bisa mendeteksi format beberapa marketplace di Indonesia
 
 Untuk saat ini sudah ada 3 marketplace yang dapat digunakan langsung yaitu Bukalapak, Tokopedia dan Shopee
 
-Dengan fitur ini, membuat kode menjadi sangat mudah karena tinggal _copy paste_ dari aplikasi marketplace langsung
+Dengan fitur ini, membuat kode menjadi sangat mudah karena hanya _copy paste_ dari aplikasi marketplace langsung
 
 **Tokopedia**:
 

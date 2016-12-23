@@ -2,7 +2,7 @@
 
 Dapatkan informasi_ tracking_ semua paket dalam satu platform dengan cara cek halaman [history ](https://paket.id/book/history)untuk mengetahui status terakhir dan posisi paket yang Anda kirimkan.
 
-![](/assets/history - real time tracking.png)
+![](/assets/real time tracking - web.png)
 
 Klik panah kebawah untuk mendapatkan informasi :
 
@@ -20,7 +20,7 @@ Klik panah kebawah untuk mendapatkan informasi :
 
 * _Real time tracking_
 
-Pada mobile app klik salah satu kode lalu scroll kebawah. _Tracking link_ bisa dibagikan langsung ke aplikasi lain, seperti BBM, Whatsapp, Line, dll dengan cara klik ikon_ Share_ di sebelah kanan atas _Package Detail_.
+Pada _mobile app_ klik salah satu kode lalu _scroll_ kebawah. _Tracking link_ bisa dibagikan langsung ke aplikasi lain, seperti BBM, Whatsapp, Line, dll dengan cara klik ikon_ Share_ di sebelah kanan atas _Package Detail_.
 
 ![](/assets/real time tracking.png)
 

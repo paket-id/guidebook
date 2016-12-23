@@ -8,7 +8,7 @@ Kode Booking yang sudah dibuat dapat dicetak dengan mudah, caranya :
 ![](/assets/booking code from excel book.png)
 
 * Logo yang sudah di- _upload_ akan tampil pada label dengan kode booking yang statusnya‘_booked_’.
-* Terdapat 3 \(tiga\) pilihan mode label yang akan dicetak dan jaraktanggal kode bookingnya :
+* Terdapat 3 \(tiga\) pilihan mode label yang akan dicetak dan jarak tanggal kode bookingnya :
 
 * Tampilan _full_ dengan alamat penerima dan pengirim, kode booking, serta _barcode_:
 

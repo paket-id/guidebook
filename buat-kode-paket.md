@@ -1,6 +1,6 @@
 ## Buat Kode Paket
 
-Untuk mebuat sebuah kode paket anda bisa memakai metode `POST`, dan memakai 2 tipe request bersamaan yaitu POST dan GET, url untuk membuat paket adalah
+Untuk mebuat sebuah kode paket Anda bisa memakai metode `POST`, dan memakai 2 tipe request bersamaan yaitu POST dan GET, url untuk membuat paket adalah
 
 ##### ENDPOINT `[POST] http://paket.id/apis/v2/booking/`
 
