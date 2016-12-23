@@ -27,7 +27,7 @@
             "highlightCommented": true
         },
         "theme-default": {
-            "showLevel": false
+            "showLevel": true
         }
     },
     "author": "Author",
