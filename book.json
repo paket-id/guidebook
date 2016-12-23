@@ -3,7 +3,7 @@
         "search",
         "fontsettings",
         "highlight",
-        "-lunr",
+        "lunr",
         "comment",
         "theme-default"
     ],
