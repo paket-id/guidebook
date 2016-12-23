@@ -2,65 +2,62 @@
 
 ### Kode Booking
 
-> Kode booking Saya gagal dibuat, apa yang salah?
+Kode booking Saya gagal dibuat, apa yang salah?
 
-Jika Anda gagal membuat kode booking, periksa kembali input pengirim dan penerima, apakah sudah sesuai format paket.id, yaitu Nama&lt;spasi&gt;NomorTelepon&lt;spasi&gt;Alamat. Pastikan alamat yang diinput terdapat nomor rumah atau kodepos dan nomor telepon berada diantara nama dan alamat. Nama yang dimasukkan bisa lebih dari satu kata dan nomor telepon bisa diinput dengan kode negara didepan.
+> Jika Anda gagal membuat kode booking, periksa kembali input pengirim dan penerima, apakah sudah sesuai format paket.id, yaitu Nama&lt;spasi&gt;NomorTelepon&lt;spasi&gt;Alamat. Pastikan alamat yang diinput terdapat nomor rumah atau kodepos dan nomor telepon berada diantara nama dan alamat. Nama yang dimasukkan bisa lebih dari satu kata dan nomor telepon bisa diinput dengan kode negara didepan.
 
-> Apakah saya bisa menggunakan kode booking yang sama untuk tujuan pengiriman yang sama berulang kali?
+Apakah saya bisa menggunakan kode booking yang sama untuk tujuan pengiriman yang sama berulang kali?
 
-Tidak bisa. Satu kode booking hanya bisa untuk satu kali pengiriman, karena sistem kami akan mendaur ulang kode agar dapat digunakan kembali untuk pengiriman yang lain. Kode yang dibuat hanya aktif selama satu bulan.
+> Tidak bisa. Satu kode booking hanya bisa untuk satu kali pengiriman, karena sistem kami akan mendaur ulang kode agar dapat digunakan kembali untuk pengiriman yang lain. Kode yang dibuat hanya aktif selama satu bulan.
 
-> Saya sudah meng-upload excel yang berisi detail alamat pengirim dan penerima. Bagaimana saya mengetahui kode booking-nya?
+Saya sudah meng-upload excel yang berisi detail alamat pengirim dan penerima. Bagaimana saya mengetahui kode booking-nya?
 
-Setelah Anda meng-upload excel, Anda dapat mengecek ke _history booking_. _Download_ terlebih dahulu template excel yang tersedia sebagai pedoman pengisian alamat.
+> Setelah Anda meng-upload excel, Anda dapat mengecek ke _history booking_. _Download_ terlebih dahulu template excel yang tersedia sebagai pedoman pengisian alamat.
 
-> Bagaimana cara penggunaan API?
+Bagaimana cara penggunaan API?
 
-API bisa langsung digunakan untuk membuat kode, biasanya digunakan _online shop_ yang mempunyai website.
+> API bisa langsung digunakan untuk membuat kode, biasanya digunakan _online shop_ yang mempunyai website.
 
-> Status kode booking belum ter-update setelah saya mengirim dengan kode booking ke vendor
+Status kode booking belum ter-update setelah saya mengirim dengan kode booking ke vendor
 
-Tunggu beberapa saat dan muat ulang halaman _history_ di website paket.id atau _refresh_ halaman package pada aplikasi _mobile_. Jika status belum ter-_update_ dalam 24 jam, maka Anda dapat menghubungi _customer support_ kami di 087808783630 atau _email_ ke cs@paket.id
+> Tunggu beberapa saat dan muat ulang halaman _history_ di website paket.id atau _refresh_ halaman package pada aplikasi _mobile_. Jika status belum ter-_update_ dalam 24 jam, maka Anda dapat menghubungi _customer support_ kami di 087808783630 atau _email_ ke cs@paket.id
 
-> Bagaimana saya bisa menentukan bahwa saya ingin menggunakan jenis pengiriman tertentu yang disediakan oleh vendor logistik?
+Bagaimana saya bisa menentukan bahwa saya ingin menggunakan jenis pengiriman tertentu yang disediakan oleh vendor logistik?
 
-Anda dapat mencantumkan apakah itu pengiriman reguler atau jenis lainnya pada input _Note_.
+> Anda dapat mencantumkan apakah itu pengiriman reguler atau jenis lainnya pada input _Note_.
 
-> Vendor mana saja yang bisa menerima kiriman dengan kode booking paket.id?
+Vendor mana saja yang bisa menerima kiriman dengan kode booking paket.id?
 
-Saat ini, kode booking paket.id dapat diproses di 78 cabang Tiki. Selengkapnya cek [paket.id/location. ](/paket.id/location)Jika Anda tidak ingin repot mengantar ke vendor, dapat menggunakan fitur pickup via [website](web.md) atau [android app](android.md).
+> Saat ini, kode booking paket.id dapat diproses di 78 cabang Tiki. Selengkapnya cek [paket.id/location. ](/paket.id/location)Jika Anda tidak ingin repot mengantar ke vendor, dapat menggunakan fitur pickup via [website](web.md) atau [android app](android.md).
 
-> Paket yang saya kirimkan mengalami kendala dan belum diterima oleh penerima melebihi waktu yang diperkirakan, apa yang harus saya lakukan?
+Paket yang saya kirimkan mengalami kendala dan belum diterima oleh penerima melebihi waktu yang diperkirakan, apa yang harus saya lakukan?
 
-Terkait keterlambatan pengiriman, Anda dapat menghubungi langsung _customer service_ dari vendor logistik yang bersangkutan. Informasi tersebut dapat dilihat di halaman tracking, seperti nama vendor, _email_, dan nomor telepon _customer service_ yang dapat dihubungi.
+> Terkait keterlambatan pengiriman, Anda dapat menghubungi langsung _customer service_ dari vendor logistik yang bersangkutan. Informasi tersebut dapat dilihat di halaman tracking, seperti nama vendor, _email_, dan nomor telepon _customer service_ yang dapat dihubungi.
 
-> Layanan PO BOX. Dapatkah saya membuat beberapa daftar alamat penerima, sehingga pengirim atau siapapun cukup menuliskan kode penerima tersebut?
+Layanan PO BOX. Dapatkah saya membuat beberapa daftar alamat penerima, sehingga pengirim atau siapapun cukup menuliskan kode penerima tersebut?
 
-Saat ini kami belum ada fitur PO BOX.
+> Saat ini kami belum ada fitur PO BOX.
 
 ---
 
 ### Pickup
 
-> Saya sudah melakukan request pickup, lalu apa yang harus saya lakukan?
+Saya sudah melakukan request pickup, lalu apa yang harus saya lakukan?
 
-Jika ada kurir yang tersedia di lokasi sekitar dan dapat menjemput barang Anda, Anda akan menerima notifikasi bahwa kurir sedang dalam perjalanan ke lokasi pickup yang telah Anda tentukan. Jika Anda tidak menerima notifikasi apapun atau _request_ Anda dibatalkan oleh sistem, maka Anda dapat membuat _request_ _pickup_ kembali beberapa saat lagi.
+> Jika ada kurir yang tersedia di lokasi sekitar dan dapat menjemput barang Anda, Anda akan menerima notifikasi bahwa kurir sedang dalam perjalanan ke lokasi pickup yang telah Anda tentukan. Jika Anda tidak menerima notifikasi apapun atau _request_ Anda dibatalkan oleh sistem, maka Anda dapat membuat _request_ _pickup_ kembali beberapa saat lagi.
 
-> Bagaimana cara saya mengetahui tarif pengiriman dan proses pembayarannya jika saya menggunakan fitur pickup?
+Bagaimana cara saya mengetahui tarif pengiriman dan proses pembayarannya jika saya menggunakan fitur pickup?
 
-Kurir yang menjemput ke lokasi Anda akan menghitung semua paket yang akan dikirim dan Anda dapat membayar ongkos kirim kepada kurir tersebut. Anda akan menerima nota pickup dan dapat mengecek status pengiriman via website atau aplikasi _mobile_ ketika kurir sudah memproses paket Anda di konter pengiriman.
+> Kurir yang menjemput ke lokasi Anda akan menghitung semua paket yang akan dikirim dan Anda dapat membayar ongkos kirim kepada kurir tersebut. Anda akan menerima nota pickup dan dapat mengecek status pengiriman via website atau aplikasi _mobile_ ketika kurir sudah memproses paket Anda di konter pengiriman.
 
-> Jam berapa batas waktu jika saya ingin melakukan request pickup?
+Jam berapa batas waktu jika saya ingin melakukan request pickup?
 
-Dikarenakan tidak semua vendor beroperasi selama 24 jam, sebaiknya _request pickup_ dilakukan sebelum jam 5 sore.
+> Dikarenakan tidak semua vendor beroperasi selama 24 jam, sebaiknya _request pickup_ dilakukan sebelum jam 5 sore.
 
-> Apakah ada jumlah minimum paket jika ingin melakukan request pickup?
+Apakah ada jumlah minimum paket jika ingin melakukan request pickup?
 
-Saat ini tidak ada jumlah minimum paket dan tidak dikenakan biaya pickup. Anda hanya perlu membayar ongkos kirim paketnya saja.
+> Saat ini tidak ada jumlah minimum paket dan tidak dikenakan biaya pickup. Anda hanya perlu membayar ongkos kirim paketnya saja.
 
-> Bagaimana prosedurnya jika saya berminat menjadi _driver pickup_ paket.id?
+Bagaimana prosedurnya jika saya berminat menjadi _driver pickup_ paket.id?
 
-Saat ini, paket.id _driver_ hanyalah driver atau kurir langsung dari partner logistik kami.
-
-
-
+> Saat ini, paket.id _driver_ hanyalah driver atau kurir langsung dari partner logistik kami.
