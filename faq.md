@@ -62,23 +62,5 @@ Saat ini tidak ada jumlah minimum paket dan tidak dikenakan biaya pickup. Anda h
 
 Saat ini, paket.id _driver_ hanyalah driver atau kurir langsung dari partner logistik kami.
 
----
 
-### Cashback 10%
-
-> Berapa lama promo _cashback_ 10% ini berlangsung?
-
-Masa berlaku promo _cashback_ 10% yaitu satu bulan sejak akun Anda terdaftar promo ini
-
-> Apa saja syarat untuk mendaftar promo _cashback_ 10% ?
-
-Syaratnya adalah akun paket.id Anda belum pernah terdaftar dipromo ini sebelumnya
-
-> Bagaimana ketentuan tarif pengiriman yang masuk dalam perhitungan promo ?
-
-Semua tarif pengiriman yang menggunakan kode booking paket.id selama satu bulan sejak akun Anda terdaftar promo
-
-> Bagaimana cara mendaftar promo cashback 10% ?
-
-Anda dapat mendaftar dengan mengisi form di [sini](/paket.id/promo)
 
