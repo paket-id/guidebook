@@ -15,9 +15,6 @@
         "epub": "styles/epub.css"
     },
     "pluginsConfig": {
-        "theme-api": {
-            "split": true
-        },
         "fontsettings": {
             "theme": "white",
             "family": "sans",
