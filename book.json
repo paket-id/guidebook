@@ -28,7 +28,7 @@
         },
         "theme-default": {
             "styles": "",
-            "showLevel": true
+            "showLevel": false
         }
     },
     "author": "Author",
