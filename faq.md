@@ -44,7 +44,7 @@ Bagaimana saya bisa menentukan bahwa saya ingin menggunakan jenis pengiriman ter
 
 Vendor mana saja yang bisa menerima paket dengan kode booking paket.id?
 
-> Saat ini, kode booking paket.id dapat diproses di Tiki, JNE, dan SML Express. Selengkapnya cek [paket.id/location. ](/paket.id/location)Jika Anda tidak ingin mengantar sendiri ke vendor, dapat menggunakan fitur [pickup](pickup.md) via website atau _mobile app_.
+> Saat ini kode booking paket.id dapat diproses di Tiki, JNE, dan SML Express. Selengkapnya cek [paket.id/location. ](/paket.id/location)Jika Anda tidak ingin mengantar sendiri ke vendor, dapat menggunakan fitur [pickup](pickup.md) via website atau _mobile app_.
 
 Paket yang saya kirimkan mengalami kendala dan belum diterima oleh penerima melebihi waktu yang diperkirakan, apa yang harus saya lakukan?
 
