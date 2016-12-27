@@ -1,4 +1,4 @@
-# Chapter 1 Perkenalan
+# Perkenalan
 
 Paket.id merupakan sebuah inovasi pengiriman barang dengan sistem booking dan pickup.
 

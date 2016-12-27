@@ -1,4 +1,4 @@
-## Chapter 2 Informasi yang Anda bagi
+## Informasi yang Anda bagi
 
 Paket.id beritikad untuk melindungi dan menghargai hak pribadi Anda.
 
