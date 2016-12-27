@@ -8,7 +8,7 @@ Pada halaman _postcode_ :
 * Masukkan nama lokasi
 * Klik ikon panah di sebelah kanan atas
 
-  ![](/assets/postcode - surabaya.png)
+![](/assets/postcode - surabaya.png)
 
 Pada halaman _tariff_ :
 
@@ -16,14 +16,14 @@ Pada halaman _tariff_ :
 * Masukkan nama kelurahan, kecamatan, kota, atau kodepos di input asal dan tujuan
 
 ![](/assets/check tariff - input zipcode 60286.png)
+
 * Klik _Other area or ZIP code_
 
 ![](/assets/check tariff - zipcode 60286 clicked.png)
-* Pilih nama lokasi yang sesuai
+
+* Pilih nama lokasi yang tertera
 
 * Klik ikon panah di sebelah kanan atas
 
 ![](/assets/check tariff - surabaya.png)
-
-
 
