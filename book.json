@@ -15,13 +15,16 @@
         "epub": "styles/epub.css"
     },
     "pluginsConfig": {
-        "theme-api": {
-            "split": true
-        },
         "fontsettings": {
             "theme": "white",
             "family": "sans",
             "size": 2
+        },
+        "comment": {
+            "highlightCommented": true
+        },
+        "theme-default": {
+            "showLevel": true
         }
     },
     "author": "Author",
