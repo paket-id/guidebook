@@ -2,8 +2,8 @@
 
 * [Perkenalan](README.md)
 * [Kebijakan Privasi](kebijakan-privasi.md)
-* [Syarat dan Ketentuan](../syarat/syarat-dan-ketentuan.md)
-  * [TIKI](../syarat/tiki.md)
+* [Syarat dan Ketentuan](syarat-dan-ketentuan.md)
+  * [TIKI](tiki.md)
   * [JNE](jne.md)
   * [JNT](jnt.md)
 * [Fitur](fitur.md)
