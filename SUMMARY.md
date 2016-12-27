@@ -1,8 +1,8 @@
 # Summary
 
 * [Perkenalan](README.md)
-* [Kebijakan Privasi](chapter-2/README.md)
-* [Syarat dan Ketentuan](chapter-3/README.md)
+* [Kebijakan Privasi](kebijakan-privasi.md)
+* [Syarat dan Ketentuan](syarat-dan-ketentuan.md)
   * [TIKI](tiki.md)
   * [JNE](jne.md)
   * [JNT](jnt.md)
