@@ -9,7 +9,7 @@ Gunakan logo _brand_-mu pada label kode booking dengan cara :
 4. Jika upload sukses, maka akan muncul tampilan _preview_ logo.
 
 ![](/assets/settings - upload logo.png)  
-Ketentuan \_upload \_logo :
+Ketentuan _upload_ logo :
 
 1. Ukuran file maksimal 200kb dengan dimensi 120\*50.
 2. Maksimal _upload_ 1 \(satu\) gambar.
