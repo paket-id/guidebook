@@ -1,7 +1,10 @@
 # Summary
 
 * [Perkenalan](README.md)
-* [Kebijakan Privasi](part1/kebijakan-privasi.md)
+
+----
+
+* [Kebijakan Privasi](kebijakan-privasi.md)
 
 ----
 
