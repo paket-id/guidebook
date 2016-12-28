@@ -24,7 +24,8 @@
             "highlightCommented": true
         },
         "theme-default": {
-            "showLevel": true
+            "showLevel": true,
+            "includePartsInSectionNumber": true
         }
     },
     "author": "Author",
