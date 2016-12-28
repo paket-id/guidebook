@@ -1,1 +1,6 @@
 /* CSS for website */
+.book-summary .summary .chapter b {
+	data-path: "./" {
+		data-level: "1";
+	}
+}
