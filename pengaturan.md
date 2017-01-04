@@ -8,6 +8,7 @@
 
 4. [Profil](profil.md)
 
+5. [Printer](printer.md)
 
 
 
