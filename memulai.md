@@ -8,7 +8,7 @@ Mulai pakai Paket.id dengan membuat kode booking Paket.id
 
 ![](/assets/penerima2.gif)
 
-Tips : _Anda hanya perlu mengisi informasi pengirim sekali saja ke Paket.id, selanjutnya info akan terisi otomatis sesuai dengan informasi pengiriman yang terakhir dibuat_
+Tips : _Anda hanya perlu mengisi informasi pengirim sekali saja ke Paket.id, selanjutnya info akan terisi otomatis sesuai dengan informasi pengiriman yang terakhir dibuat
 
 
 
