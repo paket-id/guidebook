@@ -2,18 +2,18 @@
 
 Anda dapat mencari kodepos berdasarkan nama kelurahan, kecamatan, atau kota di halaman _postcode_ dan _tariff_ pada aplikasi android.
 
-Pada halaman _postcode_ :
+Pada menu _**postcode**_ :
 
 * Buka Paket ID app lalu pilih _Postcode_
-* Masukkan nama lokasi
+* Masukkan nama lokasi \(kota / kelurahan / kecamatan / kodepos\)
 * Klik ikon panah di sebelah kanan atas
 
 ![](/assets/postcode - surabaya.png)
 
-Pada halaman _tariff_ :
+Kodepos juga dapat dipakai sewaktu mencari tarif pengiriman
 
-* Buka Paket ID app lalu pilih _Tariff_
-* Masukkan nama kelurahan, kecamatan, kota, atau kodepos di input asal dan tujuan
+* Pilih menu **Tariff **_dari aplikasi Paket.id_
+* Masukkan kodepos di input asal dan tujuan
 
 ![](/assets/check tariff - input zipcode 60286.png)
 
