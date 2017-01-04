@@ -1,10 +1,10 @@
-## Kodepos
+# Kodepos
 
 Anda dapat mencari kodepos berdasarkan nama kelurahan, kecamatan, atau kota di halaman _postcode_ dan _tariff_ pada aplikasi android.
 
-Pada menu _**postcode**_ :
+Caranya :
 
-* Buka Paket ID app lalu pilih _Postcode_
+* Buka aplikasi Paket.ID lalu pilih menu **Postcode**
 * Masukkan nama lokasi \(kota / kelurahan / kecamatan / kodepos\)
 * Klik ikon panah di sebelah kanan atas
 
