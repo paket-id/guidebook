@@ -9,7 +9,7 @@ Mulai pakai Paket.id dengan membuat kode booking Paket.id untuk setiap paket yan
 
 2. Isi informasi **Penerima **dengan format yang sama yaitu **NAMA&lt;spasi&gt;TELEPON&lt;spasi&gt;ALAMAT**
 
-![](/assets/penerima3.gif)  
+  
    _Tips : gunakan fitur buku alamat untuk memudahkan pengiriman ke penerima yang sama_
 
 1. Isi informasi opsional seperti **Konten **dan **Catatan**
@@ -37,11 +37,5 @@ Setelah semua Paket anda mempunyai kode booking Paket.id, anda bisa mengirimkan 
 1. Drop-off di outlet mitra terdekat
 2. Meminta pickup dari kurir terdekat
 
-## Drop-off
 
-Lokasi outlet mitra terdekat bisa ditemukan di menu "**location**" di aplikasi android atau di tautan paket.id/location
-
-## Pickup
-
-Cara Meminta Pickup
 
