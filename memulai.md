@@ -23,13 +23,13 @@ _Tips : gunakan fitur buku alamat untuk memudahkan pengiriman ke penerima yang s
 ![](/assets/penerima4.gif)  
    _Jika memakai servis regular / normal, catatan tidak perlu diisi_
 
-1. Tekan tombol **Book **untuk mendapatkan kode booking Paket
+4. Tekan tombol **Book **untuk mendapatkan kode booking Paket
 
    
    ![](/assets/book.png)
    
 
-2. **Tulis **kode booking Paket.id di paket anda
+5. **Tulis **kode booking Paket.id di paket anda
 
    
    ![](/assets/box2.png)
