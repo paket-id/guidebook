@@ -1,42 +1,35 @@
 # Memulai
 
-_Jika Anda memakai android, download aplikasi android di paket.id/app_
+_Jika Anda memakai android, download aplikasi android di _[_paket.id/app_](https://paket.id/app)
 
 Mulai pakai Paket.id dengan membuat kode booking Paket.id untuk setiap paket yang akan dikirim
 
-1. Isi informasi** Pengirim **dengan format **NAMA&lt;spasi&gt;TELEPON&lt;spasi&gt;ALAMAT**
+* Isi informasi** Pengirim **dengan format **NAMA&lt;spasi&gt;TELEPON&lt;spasi&gt;ALAMAT**
 
-   
-   ![](/assets/penerima2.gif)
-   
+![](/assets/penerima2.gif)
 
-   _Tips : Anda hanya perlu mengisi informasi pengirim sekali saja ke Paket.id, selanjutnya info akan terisi otomatis sesuai dengan informasi pengiriman yang terakhir dibuat_
+_Tips : Anda hanya perlu mengisi informasi pengirim sekali saja ke Paket.id, selanjutnya info akan terisi otomatis sesuai dengan informasi pengiriman yang terakhir dibuat_
 
-2. Isi informasi **Penerima **dengan format yang sama yaitu **NAMA&lt;spasi&gt;TELEPON&lt;spasi&gt;ALAMAT**
+* Isi informasi **Penerima **dengan format yang sama yaitu **NAMA&lt;spasi&gt;TELEPON&lt;spasi&gt;ALAMAT**
 
-   ![](/assets/import.png)
+![](/assets/penerima.png)
 
 _Tips : gunakan fitur buku alamat untuk memudahkan pengiriman ke penerima yang sama_
 
-
-1. Isi informasi opsional seperti **Konten **dan **Catatan**
+* Isi informasi opsional seperti **Konten **dan **Catatan**
 
 ![](/assets/penerima4.gif)  
    _Jika memakai servis regular / normal, catatan tidak perlu diisi_
 
-1. Tekan tombol **Book **untuk mendapatkan kode booking Paket
+* Tekan tombol **Book **untuk mendapatkan kode booking Paket
 
-   
-   ![](/assets/book.png)
-   
+![](/assets/book.png)
 
-2. **Tulis **kode booking Paket.id di paket anda
+* **Tulis **kode booking Paket.id di paket anda
 
-   
-   ![](/assets/box2.png)
-  
+![](/assets/box2.png)
 
-   _Tips: paket dengan kode booking Paket.id tidak memerlukan label lainnya, mitra pengiriman kami akan mencetak label khusus untuk paket anda_
+_Tips: paket dengan kode booking Paket.id tidak memerlukan label lainnya, mitra pengiriman kami akan mencetak label khusus untuk paket anda_
 
 Baca juga :
 
@@ -47,3 +40,6 @@ Setelah semua Paket anda mempunyai kode booking Paket.id, anda bisa mengirimkan 
 
 1. [Drop-off](lokasi-vendor.md) di outlet mitra terdekat
 2. Meminta [pickup](pickup.md) dari kurir terdekat
+
+
+

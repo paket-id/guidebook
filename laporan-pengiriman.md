@@ -4,7 +4,6 @@ Anda dapat melihat laporan pengiriman barang selama 90 hari terakhir secara leng
 
 1. Login ke [paket.id](https://paket.id/)
 2. Klik _dashboard_
-
 3. Tampil laporan pengiriman 90 hari terakhir dan tampilan grafik dibawahnya.
 
 ![](/assets/dashboard.png)  
