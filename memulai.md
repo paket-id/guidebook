@@ -18,6 +18,7 @@ Mulai pakai Paket.id dengan membuat kode booking Paket.id untuk setiap paket yan
 
 _Tips : gunakan fitur buku alamat untuk memudahkan pengiriman ke penerima yang sama_
 
+
 1. Isi informasi opsional seperti **Konten **dan **Catatan**
 
 ![](/assets/penerima4.gif)  
@@ -33,7 +34,7 @@ _Tips : gunakan fitur buku alamat untuk memudahkan pengiriman ke penerima yang s
 
    
    ![](/assets/box2.png)
-   
+  
 
    _Tips: paket dengan kode booking Paket.id tidak memerlukan label lainnya, mitra pengiriman kami akan mencetak label khusus untuk paket anda_
 
@@ -46,6 +47,3 @@ Setelah semua Paket anda mempunyai kode booking Paket.id, anda bisa mengirimkan 
 
 1. [Drop-off](lokasi-vendor.md) di outlet mitra terdekat
 2. Meminta [pickup](pickup.md) dari kurir terdekat
-
-
-

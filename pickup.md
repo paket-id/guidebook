@@ -1,8 +1,8 @@
 ## Pickup Service
 
-Anda dapat melakukan request pickup melalui web atau android.
+Anda dapat meminta pickup melalui web atau android.
 
-Sebelum melakukan request pickup, pastikan sudah memiliki kode booking. Jika Anda belum mempunyai kode booking, klik '_click here_' pada _alert_ yang muncul di atas peta.
+Sebelum meminta pickup, pastikan kalau paket yang akan dikirim sudah memiliki kode booking. Jika Anda belum mempunyai kode booking, anda bisa menekan '_click here_' pada pemberitahuan yang muncul di atas peta.
 
 ![](/assets/book package first.png)
 
@@ -10,16 +10,23 @@ Sebelum melakukan request pickup, pastikan sudah memiliki kode booking. Jika And
 
 * Buka halaman [pickup](https://paket.id/pickup)
 
-* Cari lokasi pickup pada input ‘_Search place_’ lalu klik pada map untuk menunjukkan lokasi yang lebih akurat
+* Sistem akan mengenal lokasi anda secara otomatis, jika tidak cari lokasi pickup pada input ‘_Search place_’ lalu klik pada map untuk menunjukkan lokasi yang lebih akurat
 
 * Masukkan keterangan tambahan pada input ‘_Extra detail_’, misalnya patokan rumah
 
 * Pilih jenis kendaraannya, bisa mobil atau motor
+
 * Pilih kurir yang akan menjemput: Tiki, SML Express, atau JNE
+
 * Klik ‘Pickup’
-* Tunggu beberapa saat sampai ada _driver_ yang menerima _request_ Anda
+
+* Tunggu beberapa saat sampai ada kurir yang menerima permintaan Anda
+
 * Cek tab [history](status-pickup.md) untuk mengetahui status _request_ pickup Anda
+
 * Anda dapat membayar jumlah ongkos kirim secara tunai kepada driver atau transfer ke rekening vendor logistik
+
+
 
 ![](/assets/pickup form - choose tiki.png)
 
