@@ -14,9 +14,7 @@ Mulai pakai Paket.id dengan membuat kode booking Paket.id untuk setiap paket yan
 
 2. Isi informasi **Penerima **dengan format yang sama yaitu **NAMA&lt;spasi&gt;TELEPON&lt;spasi&gt;ALAMAT**
 
-   
    ![](/assets/import.png)
-   
 
 _Tips : gunakan fitur buku alamat untuk memudahkan pengiriman ke penerima yang sama_
 
