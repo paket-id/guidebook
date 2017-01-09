@@ -39,13 +39,13 @@ _Tips : gunakan fitur buku alamat untuk memudahkan pengiriman ke penerima yang s
 
 Baca juga :
 
-1. Memakai format marketplace \(Bukalapak,Tokopedia, Shopee\)
-2. Memakai Excel untuk membuat kode booking
+1. Memakai [format marketplace](format-marketplace.md) \(Bukalapak,Tokopedia, Shopee\)
+2. Memakai [Excel](excel-upload.md) untuk membuat kode booking
 
 Setelah semua Paket anda mempunyai kode booking Paket.id, anda bisa mengirimkan paket anda dengan cara
 
-1. Drop-off di outlet mitra terdekat
-2. Meminta pickup dari kurir terdekat
+1. [Drop-off](lokasi-vendor.md) di outlet mitra terdekat
+2. Meminta [pickup](pickup.md) dari kurir terdekat
 
 
 
