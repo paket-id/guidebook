@@ -6,17 +6,17 @@ Mulai pakai Paket.id dengan membuat kode booking Paket.id untuk setiap paket yan
 
 1. Isi informasi** Pengirim **dengan format **NAMA&lt;spasi&gt;TELEPON&lt;spasi&gt;ALAMAT**
 
-   ```
+   
    ![](/assets/penerima2.gif)
-   ```
+   
 
    _Tips : Anda hanya perlu mengisi informasi pengirim sekali saja ke Paket.id, selanjutnya info akan terisi otomatis sesuai dengan informasi pengiriman yang terakhir dibuat_
 
 2. Isi informasi **Penerima **dengan format yang sama yaitu **NAMA&lt;spasi&gt;TELEPON&lt;spasi&gt;ALAMAT**
 
-   ```
+   
    ![](/assets/import.png)
-   ```
+   
 
 _Tips : gunakan fitur buku alamat untuk memudahkan pengiriman ke penerima yang sama_
 
@@ -27,15 +27,15 @@ _Tips : gunakan fitur buku alamat untuk memudahkan pengiriman ke penerima yang s
 
 1. Tekan tombol **Book **untuk mendapatkan kode booking Paket
 
-   ```
+   
    ![](/assets/book.png)
-   ```
+   
 
 2. **Tulis **kode booking Paket.id di paket anda
 
-   ```
+   
    ![](/assets/box2.png)
-   ```
+   
 
    _Tips: paket dengan kode booking Paket.id tidak memerlukan label lainnya, mitra pengiriman kami akan mencetak label khusus untuk paket anda_
 
