@@ -1,6 +1,6 @@
 # Memulai
 
-_Jika Anda memakai android, download aplikasi android di paket.id/app_
+_Jika Anda memakai android, download aplikasi android di [paket.id/app](https://paket.id/app)_
 
 Mulai pakai Paket.id dengan membuat kode booking Paket.id untuk setiap paket yang akan dikirim
 
@@ -18,7 +18,7 @@ Mulai pakai Paket.id dengan membuat kode booking Paket.id untuk setiap paket yan
 
 _Tips : gunakan fitur buku alamat untuk memudahkan pengiriman ke penerima yang sama_
 
-1. Isi informasi opsional seperti **Konten **dan **Catatan**
+3. Isi informasi opsional seperti **Konten **dan **Catatan**
 
 ![](/assets/penerima4.gif)  
    _Jika memakai servis regular / normal, catatan tidak perlu diisi_
