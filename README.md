@@ -16,7 +16,7 @@ Fitur - fitur paket.id:
 
 ### Partner Logistik
 
-![](/assets/tiki.png) ![](/assets/jne.png) ![](/assets/sml.png)
+![](/assets/tiki.png) ![](/assets/jne.png)
 
 ---
 
