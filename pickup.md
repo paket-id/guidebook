@@ -26,8 +26,6 @@ Sebelum meminta pickup, pastikan kalau paket yang akan dikirim sudah memiliki ko
 
 * Anda dapat membayar jumlah ongkos kirim secara tunai kepada driver atau transfer ke rekening vendor logistik
 
-
-
 ![](/assets/pickup form - choose tiki.png)
 
 Paket yang sudah di-pickup oleh _driver_ akan ter-update dengan status '_Picked_', tercantum juga nama _driver_, nomor telepon, dan lokasi konter dimana paket Anda diproses.
@@ -38,9 +36,9 @@ Paket yang sudah di-pickup oleh _driver_ akan ter-update dengan status '_Picked_
 
 * Buka aplikasi Paket ID
 
-* Klik _Request Pickup_ dari halaman _Package_
+* Pilih menu pickup
 
-![](/assets/package list.png)
+![](/assets/menu-crop pickup.png)
 
 1. Lalu akan tampil pickup map untuk mengatur lokasi penjemputan. Geser peta untuk mendapatkan lokasi yang tepat
 
